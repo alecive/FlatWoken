@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="google-hangouts.svg"
+   sodipodi:docname="google-hangouts_B.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.9874322"
-     inkscape:cx="410.54928"
+     inkscape:cx="334.32026"
      inkscape:cy="143.70462"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
+     inkscape:window-width="1375"
+     inkscape:window-height="876"
+     inkscape:window-x="1431"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:object-paths="true"
@@ -324,16 +324,6 @@
        id="linearGradient3463"
        xlink:href="#ButtonShadow-0-1-1"
        inkscape:collect="always" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#XMLID_74_-8-1"
-       id="radialGradient3170"
-       gradientUnits="userSpaceOnUse"
-       cx="255.99385"
-       cy="256"
-       fx="255.99385"
-       fy="256"
-       r="216" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#SVGID_2_"
@@ -410,7 +400,7 @@
      id="g3164"
      transform="matrix(1.092577,0,0,1.0925926,-23.696353,-23.70371)">
     <rect
-       style="color:#000000;fill:url(#radialGradient3170);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;fill:#dcdcdc;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        id="rect4121"
        width="432"
        height="432"
@@ -442,14 +432,6 @@
   <g
      id="g4076"
      transform="translate(-605.51931,-353.96832)">
-    <rect
-       style="opacity:0.2;color:#000000;fill:url(#linearGradient4082);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect6809"
-       width="472"
-       height="472"
-       x="625.51935"
-       y="373.96832"
-       ry="98.333336" />
     <g
        transform="translate(-926.66758,684.38448)"
        id="g4038">
