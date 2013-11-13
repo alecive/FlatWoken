@@ -3,25 +3,12 @@ FlatWoken
 
 Official FlatWoken icon theme source repository (alpha/beta/testing) releases.
 
-To install it 
+FlatWoken icon theme is an icon theme derived from the popular *AwOken* icon theme. It's freely inspired by its minimalist approach, 
 
-<h1>Doodle Paint5 for Pokki</h1>
-Doodle Paint5 is a simple HTML5 painting program that uses the Canvas element and mootools JavaScript library.
-It runs on the Pokki appstore (http://pokki.com)
+FlatWoken icon theme is developed by **Alessandro Roncone**. If you want to contact him, please send a note to alecive87@gmail.com.
 
-<h3>Important source files</h3>
-app.js - Main js entrypoint for Doodle Paint<br />
-popup.js - Pokki popup wrapper<br />
-window.html - HTML entrypoint for Doodle Paint<br />
-default.css - All Doodle Paint CSS<br />
-<br />
-ToolBase.js - Abstract base class for painting Tools<br />
-*****Tool.js - Painting tool implementations, pencil, brush, circle, spray, etc.<br />
 
-Will become a heading
-==============
-
-Will become a sub heading
+Installation
 --------------
 
 *This will be Italic*
@@ -31,4 +18,4 @@ Will become a sub heading
 - This will be a list item
 - This will be a list item
 
-    Add a indent and this will end up as code
+        Add a indent and this will end up as code
