@@ -1,11 +1,25 @@
 FlatWoken
 =========
 
-Official FlatWoken icon theme source repository (alpha/beta/testing) releases.
+Official *FlatWoken* icon theme source repository (alpha/beta/testing) releases.
 
-FlatWoken icon theme is an icon theme derived from the popular *AwOken* icon theme. It's freely inspired by its minimalist approach, 
+The *FlatWoken* project is developed by **Alessandro Roncone**. It is is meant to be a complete set of icon themes for Linux **AND** Android, so please don't release your own remastered version of this icon theme for any of these platform. If you'd like to use and/or modify these icons for your own purposes, please notice that the iconset is free to use *as long as* its use it's not conveying any monetary income. If it does, we can arrange easily. Regardless of the use, I'd like to know if and how my icons are used, and I'd like to receive some sort of credit for it.
 
-FlatWoken icon theme is developed by **Alessandro Roncone**. If you want to contact him, please send a note to alecive87@gmail.com.
+Contact informations:
+
+- Google+    https://plus.google.com/+AlessandroRoncone
+- e-mail     alecive87@gmail.com
+- deviantART http://alecive.deviantart.com/
+
+Design Guidelines
+--------------
+
+*FlatWoken* project is derived from the popular *AwOken* icon theme. It's freely inspired by its minimalist approach. The design contemplates flat, long-shadow icons enclosed in squared frames with rounded corners.
+
+*FlatWoken* icons are currently divided in two different icon sets:
+
+- *FlatWoken* 
+- *FlatWokenMin*
 
 
 Installation
