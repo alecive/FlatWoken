@@ -11,6 +11,8 @@ Contact informations:
 - e-mail     alecive87@gmail.com
 - deviantART http://alecive.deviantart.com/
 
+For any icon request and/or bug, *please use github*.
+
 Design Guidelines
 --------------
 
@@ -19,17 +21,9 @@ Design Guidelines
 *FlatWoken* icons are currently divided in two different icon sets:
 
 - *FlatWoken* 
-- *FlatWokenMin*
+- *FlatWokenMin* is supposed to be a more minimal reinterpretation of its bigger brother. Currently I'm mainly focusing on the design of *FlatWoken* icon theme, but I'll update also this sooner or later.
 
 
 Installation
 --------------
 
-*This will be Italic*
-
-**This will be Bold**
-
-- This will be a list item
-- This will be a list item
-
-        Add a indent and this will end up as code
