@@ -3,15 +3,16 @@ FlatWoken
 
 Official *FlatWoken* icon theme source repository (alpha/beta/testing) releases.
 
-The *FlatWoken* project is developed by **Alessandro Roncone**. It is is meant to be a complete set of icon themes for Linux **AND** Android, so please don't release your own remastered version of this icon theme for any of these platform. If you'd like to use and/or modify these icons for your own purposes, please notice that the iconset is free to use *as long as* its use it's not conveying any monetary income. If it does, we can arrange easily. Regardless of the use, I'd like to know if and how my icons are used, and I'd like to receive some sort of credit for it.
+The *FlatWoken* project is developed by **Alessandro Roncone**. It is is meant to be a complete set of icon themes for Linux **AND** Android. If you'd like to use and/or modify these icons for your own purposes, please consider the fact that the iconset is free to use *as long as* its use is not conveying any monetary income. If it does, we can arrange easily. Regardless of the use, I'd like to know if and how my icons are used, and I'd like to receive some sort of credit for it! Nothing crazy, though: just a quick note on the bottom or your website with my email/website is sufficient :)
 
 Contact informations:
 
 - Google+    https://plus.google.com/+AlessandroRoncone
 - e-mail     alecive87@gmail.com
 - deviantART http://alecive.deviantart.com/
+- AwOken/FlatWoken Google+ page https://plus.google.com/u/0/b/116957764483417291271/116957764483417291271/
 
-For any icon request and/or bug, *please use github*.
+For any icon request and/or bug, please use github.
 
 Design Guidelines
 --------------
