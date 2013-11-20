@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=FlatWoken
 Comment=Flat, long-shadow icon theme by alecive
-Inherits=AwOken
+Inherits=AwOkenWhite,AwOken,AwOkenDark,ubuntu-mono-dark,gnome,hicolor
 Example=angrybirds
 Directories=scalable/actions,scalable/apps,scalable/categories,scalable/places
 
