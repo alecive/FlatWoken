@@ -26,19 +26,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66426446"
+     inkscape:zoom="0.93941181"
      inkscape:cx="138.41765"
      inkscape:cy="206.81805"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
+     inkscape:window-width="1440"
+     inkscape:window-height="876"
+     inkscape:window-x="1366"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-nodes="true" />
@@ -764,20 +764,6 @@
      inkscape:groupmode="layer"
      id="layer1" />
   <g
-     transform="matrix(1.1,0,0,0.44444,95.081063,256.39254)"
-     id="g2036">
-    <g
-       transform="matrix(1.0526,0,0,1.2857,-1.2632,-13.429)"
-       style="opacity:0.4"
-       id="g3712" />
-  </g>
-  <g
-     id="g3541"
-     transform="translate(97.481063,231.28154)" />
-  <g
-     id="g3536"
-     transform="translate(97.481063,231.28154)" />
-  <g
      transform="translate(-11.985071,-592.11719)"
      id="g4103">
     <rect
@@ -890,13 +876,6 @@
     </g>
   </g>
   <g
-     transform="translate(-605.51932,-353.96833)"
-     id="g4076">
-    <g
-       id="g4038"
-       transform="translate(-926.66758,684.38448)" />
-  </g>
-  <g
      transform="translate(-605.51937,-353.96833)"
      id="g4076-9">
     <g
@@ -914,10 +893,4 @@
          id="path3981-7" />
     </g>
   </g>
-  <path
-     sodipodi:nodetypes="ccccccccccccccccc"
-     inkscape:connector-curvature="0"
-     id="path12634"
-     d="m 350.46875,107.71875 c -0.65883,-0.005 -1.30706,0.0148 -1.96875,0.0312 -10.20854,-0.27456 -19.4995,5.41231 -23.90625,14.46875 -23.84924,30.23299 -47.56792,60.77316 -71.8125,90.5625 -2.43531,5.2137 -2.41538,11.01453 -1.375,16.625 -34.02735,25.38805 -68.7837,50.91039 -93.25,86.1875 -24.40566,30.85953 -49.67009,61.09481 -73.3125,92.53125 l 350,350 c 40.15069,-17.18757 77.81611,-47.85663 123.625,-45.6875 8.85779,0.37841 17.47842,1.87021 26,4.1875 2.79762,-38.49004 26.89573,-74.89971 61.59375,-92.03125 8.8887,2.76122 19.5846,-0.18203 26.78125,-5.96875 31.91543,-26.05588 66.42329,-49.83273 97.90625,-76.21875 3.59212,-21.70405 -4.75736,-44.14162 -19.59375,-60.46875 0,0 -352.67172,-352.8075 -352.6869,-352.8121 -12.94948,-12.04123 -33.48264,-21.04994 -47.99995,-21.4062 z"
-     style="fill:#000000;fill-opacity:0.31372549;fill-rule:evenodd;stroke:none;display:none" />
 </svg>
