@@ -3,7 +3,7 @@ Name=FlatWoken
 Comment=Flat, long-shadow icon theme by alecive
 Inherits=AwOkenWhite,AwOken,AwOkenDark,ubuntu-mono-dark,gnome,hicolor
 Example=angrybirds
-Directories=scalable/actions,scalable/apps,scalable/categories,scalable/places
+Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/places
 
 [scalable/actions]
 Size=512
@@ -22,6 +22,13 @@ MaxSize=1024
 [scalable/categories]
 Size=512
 Context=Categories
+Type=scalable
+MinSize=1
+MaxSize=1024
+
+[scalable/devices]
+Size=512
+Context=Devices
 Type=scalable
 MinSize=1
 MaxSize=1024
