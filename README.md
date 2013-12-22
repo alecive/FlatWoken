@@ -35,3 +35,4 @@ Firstly, a git installation should be up and running on your machine (and you sh
 - type `git clone https://github.com/alecive/FlatWoken.git`
 - `cd` into the `FlatWoken` folder just appeared
 - `mv` the folders called `FlatWoken` and `FlatWokenMin` into your `~/.icons` directory (if this directory doesn't exist, simply create it).
+- choose the iconset (either `FlatWoken` or `FlatWokenMin`) with your favourite theme-tweaker of choice (`gnome-tweak-tool`,`ubuntu-tweak`,`unity-tweak-tool` or even `dconf` or the `terminal` for the most nerdish out there)
