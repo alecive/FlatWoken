@@ -28,8 +28,6 @@ Design Guidelines
 
 
 
-
-
 Installation
 ----------
 
@@ -51,13 +49,10 @@ Contribution
 *Github* is a great platform for collaboration. Therefore, the best way for me to handle external submissions (as well as for you :P ) is to use github's tools! So please remember to use them as much as you can. In the following: three typical ways to contribute to the project are highlighted.
 
 #### Ask for an icon
-
-If you think that a very important icon is missing into the iconset, simply open an issue with the icon name and the request will be managed as soon as possible. An `.svg` file with the original icon would be of great help (and it would definitely speed up the process of designing the icon requested).
-
+If you think that a very important icon is missing, simply open an issue with the icon name and the request will be managed as soon as possible. An `.svg` file with the original icon would be of great help (and it would definitely speed up the process of designing the icon requested).
 
 #### Submit an icon / a bunch of icons
-
-
+If you're a designer on your own you can directly create your own icon, and ask for a submission on the official repo. The best way to do that is to fork the project, do your own icons and once you finish one or a bunch of them, ask for a pull request. I will review them and if everything is ok I'll add them to the main repo. Remember that I am a pixel-perfect maniac, so please carefully follow the *Icon Guidelines* chapter before asking for a pull request. You will save both mine and your time :)
 
 #### Become a contributor
-
+If you're skilled enough and you're into the project so much that I don't even need to validate your icons before submitting them, I will be pleased to directly add you as a contributor of the main project!
