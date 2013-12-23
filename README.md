@@ -15,7 +15,7 @@ Contact informations:
 For any icon request and/or bug, please use github.
 
 Design Guidelines
-==============
+----------
 
 *FlatWoken* project is derived from the popular *AwOken* icon theme. It's freely inspired by its minimalist approach, even though it is basically a revision with an eye toward flat design. 
 
@@ -31,7 +31,7 @@ Design Guidelines
 
 
 Installation
-==============
+----------
 
 Firstly, a git installation should be up and running on your machine (and you should have at least some basic knowledge related to git). Secondly, remember that this method doesn't work for KDE (but it works for any GNOME/XFCE/LXDE installation) Then, follow these simple steps:
 
@@ -44,7 +44,7 @@ Firstly, a git installation should be up and running on your machine (and you sh
 
 
 Contribution
-==============
+----------
 
 *FlatWoken* project is at its early stages. A lot of icons are yet to be designed, and the project is open to external contributors as well as independent single submissions! I'm also open to icon requests.
 
