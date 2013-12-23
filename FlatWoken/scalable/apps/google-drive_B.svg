@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="google-drive_C.svg">
+   sodipodi:docname="google-drive_B.svg">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,14 +24,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.51726289"
-     inkscape:cx="225.48962"
+     inkscape:cx="-360.28602"
      inkscape:cy="199.33424"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1379"
-     inkscape:window-height="876"
-     inkscape:window-x="1427"
+     inkscape:window-width="1305"
+     inkscape:window-height="744"
+     inkscape:window-x="61"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:object-paths="false"
@@ -507,7 +507,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -571,7 +571,7 @@
          id="g8322">
         <path
            inkscape:connector-curvature="0"
-           style="fill:#000000;fill-opacity:0.31372549;fill-rule:evenodd"
+           style="fill:#000000;fill-opacity:0.15686275;fill-rule:evenodd"
            d="M 212.5625,111.90625 247.96875,173.5 195.21875,120.59375 91,301.125 143.125,391.40625 243.71875,492 l 149.9375,0 C 448.13292,492 492,448.13292 492,393.65625 L 492,287.125 C 404.3907,199.51682 316.78101,111.91079 316.78125,111.90625 l -104.21875,0 z"
            transform="translate(0,540.36218)"
            id="path4220" />

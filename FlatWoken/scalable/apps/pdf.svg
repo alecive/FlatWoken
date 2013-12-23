@@ -13,8 +13,8 @@
    inkscape:export-ydpi="100"
    inkscape:export-xdpi="100"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
-   sodipodi:docname="icon-template.svg"
-   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="pdf.svg"
+   inkscape:version="0.48.3.1 r9886"
    version="1.1"
    id="svg2"
    height="512"
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.96243494"
-     inkscape:cx="215.8816"
+     inkscape:cx="58.468362"
      inkscape:cy="213.00036"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1309"
+     inkscape:window-width="1305"
      inkscape:window-height="744"
-     inkscape:window-x="57"
+     inkscape:window-x="61"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:object-paths="false"
@@ -796,7 +796,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -894,7 +894,7 @@
     </g>
   </g>
   <path
-     style="fill:#000000;fill-opacity:0.31372549;fill-rule:nonzero;stroke:none;stroke-width:6.21725416;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter1111);enable-background:accumulate"
+     style="fill:#000000;fill-opacity:0.15686275;fill-rule:nonzero;stroke:none;stroke-width:6.21725416000000042;marker:none;visibility:visible;display:inline;overflow:visible;filter:url(#filter1111);enable-background:accumulate"
      d="M 202.28125 106 C 201.76928 106.004 201.26596 106.0176 200.75 106.0625 C 186.12305 105.80664 173.49945 120.37179 176.59375 134.90625 C 178.67505 157.11647 193.01207 175.12865 204.1875 193.46875 C 205.44368 200.29608 201.83436 206.93847 201.59375 213.71875 C 194.30737 253.52128 183.19498 293.12452 166.09375 329.65625 C 144.93319 339.39807 120.97081 349.03522 108.59375 370.03125 C 103.61209 379.26964 106.23985 390.52401 112.96875 397.9375 L 206.96875 492 L 393.65625 492 C 448.13317 492.0003 492 448.13291 492 393.65625 L 492 386.59375 L 217.75 112.375 C 213.54485 108.45602 208.06128 105.95251 202.28125 106 z M 201.4375 127.3125 C 205.55207 128.10531 205.84771 134.22147 207 137.5 C 208.08421 144.18005 207.95442 151.00394 207.875 157.75 C 202.9746 148.59062 196.61605 139.016 197.75 128.15625 C 199.04182 128.10585 200.16849 127.46265 201.4375 127.3125 z M 222.71875 216.75 L 224.125 218.4375 C 245.9056 245.51647 270.09525 270.44588 296.5 293.0625 C 261.6861 298.37175 227.08796 307.287 193.96875 319.28125 C 206.67223 286.07975 216.34558 251.75722 222.71875 216.75 z M 359.96875 309.46875 C 368.41366 310.28347 378.18154 309.80483 384.9375 315.625 C 385.57218 320.87837 379.14071 321.65154 375.71875 319.75 C 368.57882 317.36659 361.53007 314.34729 355.46875 309.78125 C 356.97857 309.68755 358.45546 309.49825 359.96875 309.46875 z M 150.65625 361.5625 L 148.96875 364.71875 C 144.9529 372.18722 139.09676 379.24253 133 384.53125 C 130.97122 387.8156 125.40727 381.72189 127.96875 379.15625 C 133.25829 370.87722 142.47809 366.5081 150.65625 361.5625 z "
      id="path4102" />
   <path

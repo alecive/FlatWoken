@@ -14,7 +14,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="fancy_B.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.46438112"
-     inkscape:cx="331.76501"
+     inkscape:cx="5.5243566"
      inkscape:cy="213.00049"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="1010"
      inkscape:window-height="701"
-     inkscape:window-x="426"
+     inkscape:window-x="354"
      inkscape:window-y="26"
      inkscape:window-maximized="0"
      inkscape:object-paths="false"
@@ -796,7 +796,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -894,7 +894,7 @@
     </g>
   </g>
   <path
-     style="fill:#000000;fill-opacity:0.31372549"
+     style="fill:#000000;fill-opacity:0.15686275"
      d="m 255.125,106 c -4.60452,-0.0249 -8.78654,0.42296 -12.65625,1.375 -27.84523,6.85059 -34.0293,10.03315 -47,24.03125 -10.89351,11.75638 -17.3986,23.79965 -21.34375,39.53125 -2.47386,9.86486 -2.61135,13.87596 -2.59375,78.8125 0.018,66.29955 -0.0341,71.8592 4.875,76.21875 1.75273,1.43408 60.5,60.53125 60.5,60.53125 0.72921,7.79099 1.95739,11.24002 4.03125,13.625 l 91.84375,91.875 60.875,0 C 448.13292,492 492,448.13291 492,393.65625 l 0,-88.625 -175.96875,-176 c -0.0371,-0.0356 -0.0878,-0.0582 -0.125,-0.0937 -2.78276,-2.76727 -5.79953,-5.32877 -9.125,-7.6875 -8.91825,-6.32564 -16.64313,-9.4384 -31.5625,-12.71875 C 267.66073,106.86946 261.0451,106.0321 255.125,106 z"
      id="path4087"
      inkscape:connector-curvature="0"

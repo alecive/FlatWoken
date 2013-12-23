@@ -13,7 +13,7 @@
    inkscape:export-ydpi="100"
    inkscape:export-xdpi="100"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
-   sodipodi:docname="icon-template.svg"
+   sodipodi:docname="google-search.svg"
    inkscape:version="0.48.3.1 r9886"
    version="1.1"
    id="svg2"
@@ -27,13 +27,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.3797349"
-     inkscape:cx="279.91198"
+     inkscape:cx="170.10828"
      inkscape:cy="196.57475"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
      inkscape:window-width="1305"
-     inkscape:window-height="744"
+     inkscape:window-height="719"
      inkscape:window-x="61"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -786,7 +786,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -884,7 +884,7 @@
     </g>
   </g>
   <path
-     style="fill:#000000;fill-opacity:0.31372549;stroke:none;display:inline"
+     style="fill:#000000;fill-opacity:0.23529412;stroke:none;display:inline"
      d="m 267.9375,106 c -3.5505,-0.001 -11.87914,0.1961 -21.8125,2 -23.47795,4.24683 -55.94067,19.74641 -65.125,52.03125 -9.04178,31.78273 2.51507,51.33532 12.09375,61.375 l 61.71815,61.81185 c -16.49472,0.64036 -57.85419,4.68386 -79.9375,28.125 -27.97829,29.6999 -12.8125,57.03125 -12.8125,57.03125 0,0 2.12567,5.15946 8.21875,11.65625 0.2878,0.31214 0.59975,0.61917 0.90625,0.9375 l 110.99985,111.03105 111.46875,0 C 448.13367,492.00085 492,448.13291 492,393.65625 l 0,-148.625 L 354.03125,106.21875 269.78125,106 c 0,0 -0.65905,4.2e-4 -1.84375,0 z m -18.09375,13.6875 c 12.84976,0.0958 32.15088,6.76531 43.71875,41.46875 19.85066,59.55272 -21.71875,68.625 -21.71875,68.625 0,0 -47.6495,7.33715 -56.40625,-45.625 -8.9204,-53.95072 12.81243,-56.86049 21.3125,-62.1875 0,0 5.38361,-2.33264 13.09375,-2.28125 z m 26.3125,175.46875 c 0,0 37.93301,23.24088 41.5,40.28125 3.99648,19.09204 4.27061,32.99069 -24.6875,48.21875 -8.54879,4.49559 -23.55134,5.02236 -33,5.0625 -23.22319,0.0958 -40.7692,-8.83165 -49.4375,-13.3125 -4.50476,-2.33008 -29.52455,-30.42873 -11,-55.5625 4.6595,-6.32248 9.82709,-9.12255 14.625,-12.34375 10.21036,-6.85541 20.23018,-10.071 39.125,-11.71875 6.28484,-0.54883 14.65143,-0.0695 22.875,-0.625 z"
      id="path4069"
      inkscape:connector-curvature="0"

@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="duolingo_B.svg"
+   sodipodi:docname="duolingo.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.12511"
-     inkscape:cx="288.99966"
+     inkscape:cx="154.34616"
      inkscape:cy="212"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
@@ -786,7 +786,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -895,7 +895,7 @@
      height="511.99997"
      width="511.99997" />
   <path
-     style="fill:#000000;fill-opacity:0.31372549;fill-rule:nonzero;stroke:none"
+     style="fill:#000000;fill-opacity:0.23529412;fill-rule:nonzero;stroke:none"
      d="m 88.625,108 c 0,0 -6.508552,95.1541 0.96875,139.125 3.86194,22.71045 14.13833,44.26334 29.8125,59.46875 L 304.8125,492 l 88.84375,0 C 448.13292,492 492,448.13291 492,393.65625 L 492,176.9375 423.34425,108 c 0,0 -85.68616,21.80825 -118.96875,48.8125 -16.24246,12.84724 -33.58481,29.54002 -42.96875,51.71875 l -37,-36.96875 c -5.47563,-5.40947 -11.18713,-10.32524 -16.78125,-14.75 C 174.34239,129.80825 88.625,108 88.625,108 z"
      id="path4106"
      inkscape:connector-curvature="0"

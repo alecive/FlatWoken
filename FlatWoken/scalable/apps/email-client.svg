@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.091072"
-     inkscape:cx="323.95569"
-     inkscape:cy="160.00008"
+     inkscape:cx="127.36006"
+     inkscape:cy="233.32246"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -41,7 +41,7 @@
      inkscape:snap-intersection-paths="false"
      inkscape:object-nodes="true"
      inkscape:snap-smooth-nodes="true"
-     inkscape:snap-nodes="true" />
+     inkscape:snap-nodes="false" />
   <defs
      id="defs4">
     <linearGradient
@@ -987,6 +987,36 @@
        y1="34.5"
        x2="74"
        y2="34.5" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3757"
+       id="linearGradient3906"
+       x1="257.35516"
+       y1="26.549278"
+       x2="255.79706"
+       y2="132.55255"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient3757">
+      <stop
+         offset="0"
+         style="stop-color:#c53636;stop-opacity:1"
+         id="stop3759" />
+      <stop
+         offset="1"
+         style="stop-color:#d42b2b;stop-opacity:1"
+         id="stop3761" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="translate(532.05096,285.10086)"
+       y2="132.55255"
+       x2="255.79706"
+       y1="26.549278"
+       x1="257.35516"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient4118"
+       xlink:href="#linearGradient3757"
+       inkscape:collect="always" />
   </defs>
   <metadata
      id="metadata7">
@@ -1069,7 +1099,7 @@
      d="M 118.34375,20 C 63.867087,20 20,63.867084 20,118.34375 l 0,23.0625 0,252.25 C 20,448.13291 63.867087,492 118.34375,492 l 275.3125,0 C 448.13292,492 492,448.13291 492,393.65625 l 0,-252.25 0,-23.0625 C 492,63.867084 448.13292,20 393.65625,20 l -275.3125,0 z"
      style="fill:url(#linearGradient3157);stroke:none" />
   <path
-     style="font-size:255.57182312000000479px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.23529412;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
+     style="font-size:255.57182312000000479px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:0.15686275;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans Bold"
      d="m 262.9375,212 c -26.05409,-0.0104 -52.16339,8.54128 -71.59375,25.3125 -32.43212,28.23182 -42.0154,74.88733 -30.90625,114.5625 3.54628,12.99747 10.70479,24.92695 20.375,34.5 l 105.12495,105.1249 c 0.14712,0.15321 0.28914,0.31666 0.4375,0.46875 0.0106,0.0105 0.0206,0.0208 0.0312,0.0312 l 107.25,0 c 53.00554,0 95.96833,-41.54437 98.25,-93.96875 L 330.81295,236.93805 C 322.98833,229.20446 313.57846,222.99516 302.87545,219.0943 290.2332,214.34939 276.58488,212.00546 262.9375,212 z m -0.46875,68.8125 c 3.89808,-0.005 7.81102,0.5594 11.4375,1.4375 -1.28002,14.95989 -0.44143,30.22975 -4.4375,44.84375 -2.13735,9.39466 -11.65295,17.43218 -22.03125,14.78125 -11.75621,-2.45651 -14.14663,-15.64966 -13.875,-25.40625 0.0799,-8.88573 1.61238,-18.22758 6.96875,-25.6875 4.90078,-7.32912 13.36172,-9.95797 21.9375,-9.96875 z"
      id="path9130"
      inkscape:connector-curvature="0"
@@ -1112,7 +1142,7 @@
      style="font-size:127.78591156px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:url(#linearGradient7406);fill-opacity:1;stroke:none;font-family:Droid Sans;-inkscape-font-specification:Droid Sans"
      id="text3898">
     <path
-       style="font-size:255.57182312000000479px;font-weight:bold;fill:#e84444;-inkscape-font-specification:Droid Sans Bold;fill-opacity:1"
+       style="font-size:255.57182312000000479px;font-weight:bold;fill:#bc2020;-inkscape-font-specification:Droid Sans Bold;fill-opacity:1"
        d="m 348.96285,307.24777 c -0.22328,22.20539 -6.8326,47.47852 -26.92027,59.83092 -14.79061,8.92447 -38.60642,6.23634 -45.83285,-11.16246 -7.20723,3.97436 -13.32719,13.40571 -22.96153,14.85012 -18.38193,4.75751 -40.32305,-3.34244 -47.89441,-21.59659 -8.86224,-20.65086 -7.15796,-46.43285 6.17521,-64.82106 12.17734,-16.86783 34.46763,-22.67718 54.3289,-20.05041 10.78357,1.06999 21.54128,3.00874 31.81587,6.51053 -0.8848,21.17674 -2.51247,42.33993 -2.82348,63.52641 -2.76953,12.08745 12.96764,21.08594 19.32501,8.61253 8.21909,-14.82394 8.22838,-32.81415 6.55054,-49.25728 -2.69368,-23.54201 -19.47619,-45.54091 -42.95629,-51.30271 -28.78408,-7.37122 -63.10616,0.99442 -80.79574,26.09005 -16.72522,23.47246 -19.49842,54.60529 -13.47059,82.17041 4.36215,20.34019 20.20303,37.70462 40.53948,42.77694 26.93488,6.93393 55.43311,1.06697 80.99374,-8.43265 0,7.98662 0,15.97323 0,23.95985 -29.94865,12.65787 -64.75327,15.42149 -95.84261,5.26608 -25.35356,-8.00965 -45.27898,-29.57707 -51.9937,-55.20436 -10.89297,-40.51096 -1.49243,-88.16244 30.30857,-116.98898 29.03201,-26.0945 73.29096,-32.67619 109.35146,-18.58368 29.22227,11.09065 48.82606,40.36746 51.44448,71.03971 0.45171,4.23943 0.65812,8.50368 0.65821,12.76663 z m -120.04888,15.59886 c -0.26634,9.96212 2.08252,23.44049 13.60996,25.94875 10.17634,2.70677 19.49694,-5.50908 21.5927,-15.10164 3.91831,-14.92185 3.10096,-30.51354 4.35607,-45.78857 -11.3789,-2.86912 -25.73871,-2.14971 -32.7284,8.7354 -5.25214,7.61707 -6.75197,17.13315 -6.83033,26.20606 z"
        id="path7393"
        inkscape:connector-curvature="0" />

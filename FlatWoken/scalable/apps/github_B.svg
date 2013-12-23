@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.68651686"
-     inkscape:cx="233.79378"
+     inkscape:cx="13.114568"
      inkscape:cy="277.5625"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
@@ -786,7 +786,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -866,7 +866,7 @@
        style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#a9ccdb;fill-opacity:1;stroke:none;stroke-width:2.4000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans" />
   </g>
   <path
-     style="fill:#000000;fill-opacity:0.31372549;stroke:none"
+     style="fill:#000000;fill-opacity:0.23529412;stroke:none"
      d="M 163.9375,96 C 160.59079,95.923534 159,96.4375 159,96.4375 c -10.74186,26.85809 -4.11375,46.74813 -2.09375,51.6875 -12.62248,13.62311 -20.3125,31.0219 -20.3125,52.34375 0,16.0981 1.835,30.5419 6.3125,43.09375 l 4.6875,10.65625 c 3.27057,6.0974 7.38935,11.62434 12.4375,16.5625 l 51.3125,51.34375 c -6.70169,2.7988 -18.89079,6.38207 -30.75,1.84375 L 156.1876,299.5313 c -4.4291,-4.53999 -11.30921,-9.52986 -20.53125,-10.21875 0,0 -13.11632,-0.19446 -5.34375,7.1875 l 18.21855,18.25 c 1.73254,2.9114 3.4619,6.31674 5.03125,10.34375 0,0 2.05959,6.92957 8.8125,13.53125 l 49.25,49.24995 c -1.36161,3.99462 -4.45811,9.59982 -11.40625,12.125 0,0 -5.21009,3.61807 -1.4375,6.25 l 85.71875,85.74995 109.15625,0 C 448.13292,492 492,448.13291 492,393.65625 l 0,-162.875 -133.90625,-134.3437 c 0,0 -15.97442,-5.079968 -52.09375,19.09375 -14.1531,-3.535 -29.20127,-5.28125 -44.28125,-5.28125 -16.59185,0 -33.3619,2.11813 -49,6.40625 C 187.09652,99.1753 171.30027,96.168224 163.9375,96 z m 141.5,94.1875 c 13.12311,-0.14664 24.35689,1.61845 32.71875,9.1875 10.13686,9.18499 16.0625,20.27002 16.0625,32.21875 10e-4,55.79305 -41.57507,57.3125 -92.875,57.3125 -51.30743,0 -92.90625,-7.73194 -92.90625,-57.3125 0,-11.86935 5.86439,-22.88501 15.875,-32.03125 16.7031,-15.2431 44.96504,-7.1875 77.03125,-7.1875 15.96185,-0.002 30.97064,-2.04086 44.09375,-2.1875 z"
      id="path5236"
      inkscape:connector-curvature="0"
