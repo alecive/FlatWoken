@@ -15,7 +15,7 @@ Contact informations:
 For any icon request and/or bug, please use github.
 
 Design Guidelines
---------------
+==============
 
 *FlatWoken* project is derived from the popular *AwOken* icon theme. It's freely inspired by its minimalist approach, even though it is basically a revision with an eye toward flat design. 
 
@@ -24,9 +24,14 @@ Design Guidelines
 - *FlatWoken* is the main branch. It's supposed to enclose all the design ideas behind the project: flat, long-shadow icons enclosed in squared frames with rounded corners. The only choice diverging from the flat design guidelines is the shadow given to the squared frame: it is meant to make the icon stand out from any background in which it can be placed in.
 - *FlatWokenMin* is a more minimal reinterpretation of its bigger brother. Basically, it follows a different approach for making the icons stand out from the background (no more shadows but a 3d-ish flat effect on the bottom and the right size) *plus* it reinterprets some icons in order to push on the minimalistic approach. Furthermore, the icon in itself is completely white, whereas the squared frame is supposed to enclose the main color(s) of the original icon. Currently I'm mainly focusing on the design of *FlatWoken* icon theme, but I update also once in a while.
 
+Icon Guidelines
+--------------
+
+
+
 
 Installation
---------------
+==============
 
 Firstly, a git installation should be up and running on your machine (and you should have at least some basic knowledge related to git). Secondly, remember that this method doesn't work for KDE (but it works for any GNOME/XFCE/LXDE installation) Then, follow these simple steps:
 
@@ -36,3 +41,24 @@ Firstly, a git installation should be up and running on your machine (and you sh
 - `cd` into the `FlatWoken` folder just appeared
 - `mv` the folders called `FlatWoken` and `FlatWokenMin` into your `~/.icons` directory (if this directory doesn't exist, simply create it).
 - choose the iconset (either `FlatWoken` or `FlatWokenMin`) with your favourite theme-tweaker of choice (`gnome-tweak-tool`,`ubuntu-tweak`,`unity-tweak-tool` or even `dconf` or the `terminal` for the most nerdish out there)
+
+
+Contribution
+==============
+
+*FlatWoken* project is at its early stages. A lot of icons are yet to be designed, and the project is open to external contributors as well as independent single submissions! I'm also open to icon requests.
+
+*Github* is a great platform for collaboration. Therefore, the best way for me to handle external submissions (as well as for you :P ) is to use github's tools! So please remember to use them as much as you can. In the following: three typical ways to contribute to the project are highlighted.
+
+Ask for an icon
+--------------
+
+If you think that a very important icon is missing into the iconset, simply open an issue with the icon name and the request will be managed as soon as possible. An `.svg` file with the original icon would be of great help (and it would definitely speed up the process of designing the icon requested).
+
+
+Submit an icon / a bunch of icons
+--------------
+
+
+Become a contributor
+--------------
