@@ -24,7 +24,7 @@ Design Guidelines
 - *FlatWoken* is the main branch. It's supposed to enclose all the design ideas behind the project: flat, long-shadow icons enclosed in squared frames with rounded corners. The only choice diverging from the flat design guidelines is the shadow given to the squared frame: it is meant to make the icon stand out from any background in which it can be placed in.
 - *FlatWokenMin* is a more minimal reinterpretation of its bigger brother. Basically, it follows a different approach for making the icons stand out from the background (no more shadows but a 3d-ish flat effect on the bottom and the right size) *plus* it reinterprets some icons in order to push on the minimalistic approach. Furthermore, the icon in itself is completely white, whereas the squared frame is supposed to enclose the main color(s) of the original icon. Currently I'm mainly focusing on the design of *FlatWoken* icon theme, but I update also once in a while.
 
-#### Icon Guidelines
+#### Icon Guidelines - FlatWoken
 
 
 
