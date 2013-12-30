@@ -7,14 +7,14 @@ Directories=scalable/apps,scalable/categories
 
 [scalable/apps]
 Size=512
-Context=Apps
-Type=scalable
+Context=Applications
+Type=Scalable
 MinSize=1
 MaxSize=1024
 
 [scalable/categories]
 Size=512
 Context=Categories
-Type=scalable
+Type=Scalable
 MinSize=1
 MaxSize=1024
