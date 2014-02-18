@@ -35,6 +35,15 @@ The same guidelines are present inside the image called `icon-template.svg` , bu
 5. Try to stick with the original color palette, in order to ease for the user the process of associating the custom icon with the original app
 6. Prefer soft colors instead of highly saturated ones.
 
+###### How to create a compatible long shadow (Inkscape only)
+Let's suppose we have already created an icon whose design matches the guidelines. The last step is to create the long shadow. Unfortunately, on Inkscape this is not straightforward w.r.t. other software such as Adobe Illustrator (for which there are plenty of tutorials out there).
+In the repo there's an icon called `icon-template-longshadow-tutorial.svg` that is supposed to provide a step-by-step tutorial for the long-shadow. It's divided into several images, each of them is explained here (from top to bottom):
+1. The icon under evaluation is a simple white contour (WC) against a blue background (BB).
+2. Let's duplicate WC, change the color according to the guidelines below (in this case `0-0-0-60` because we're having a colored background) and then `Path-> Break Apart`. Let's select only the bigger path (BP - the littler [LP] will be used later), and then duplicate it(BPD). Move the duplicated path 300px on the right and 300px on the bottom
+3. Select both BP and BPD, and then `Extensions-> from path -> Interpolate` (with parameters 0.0 200 2). Select both BP, BPD and the interpolation, and do `Object->Ungroup` and then `Path->Union`. You should have a big path (BPP) with a lot of points at its edge.
+4. Select both BPP and LP, and then `Path->Difference`. Move it to the background in order to highlight WC. Now duplicate BB, and select it alongside BPP. Click again on `Path->Intersection`, in order to have a shadow that doesn't go outside the frame.
+5. Now you have only to remove the blurred edges caused by the great number of nodes in the edges. The only appropriate way I've found (please notice that `Path->Simplify` is not enough accurate) is to remove all of them by hand. For each segment (e.g. in this template there are four segment) there should be only one node at the beginning and one at the end. Remove any other node, than remove any curvature of the bezier map, and that's it! You created a perfectly compliant icon for FlatWoken :)
+
 ###### Guidelines for the Long Shadows (R-G-B-A)
 - `0-0-0-40` for an icon with a white/very clear background
 - `0-0-0-60` for an icon with a colored background
@@ -68,3 +77,7 @@ If you're a designer on your own you can directly create your own icon, and ask 
 
 #### Become a contributor
 If you're skilled enough and you're into the project so much that I don't even need to validate your icons before submitting them, I will be pleased to directly add you as a contributor of the main project!
+
+###### Contributors
+- José Morales https://plus.google.com/+Jos%C3%A9Morales87/posts made an extension pack composed by 35 icons, that has been already integrated in the iconset
+- Iohannes Quon Fabrum https://plus.google.com/109260276583018639821/posts created 24 more icons for KDE, that are in the process of being integrated in the official repository
