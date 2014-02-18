@@ -25,8 +25,20 @@ Design Guidelines
 - *FlatWokenMin* is a more minimal reinterpretation of its bigger brother. Basically, it follows a different approach for making the icons stand out from the background (no more shadows but a 3d-ish flat effect on the bottom and the right size) *plus* it reinterprets some icons in order to push on the minimalistic approach. Furthermore, the icon in itself is completely white, whereas the squared frame is supposed to enclose the main color(s) of the original icon. Currently I'm mainly focusing on the design of *FlatWoken* icon theme, but I update also once in a while.
 
 #### Icon Guidelines - FlatWoken
+The same guidelines are present inside the image called `icon-template.svg` , but they're reported here for the sake of completeness
 
+###### Recommendations
+1. Don't put a big icon inside the squared frame. Its dimension should never be bigger than 350px (300x300 is recommended)
+2. BE FLAT, and BE MINIMAL! Never forget this: think always about how to reduce clutter, reduce elements, simplify colors etc
+3. If the icon has an hole (e.g. the hole in a donut), that hole should be without the shadow, in order to make the icon better highlighted wrt the background
+4. As a recommended suggestion, keep the number of colors limited. An icon should never have too many colors. Usually, two or three colors are recommended.
+5. Try to stick with the original color palette, in order to ease for the user the process of associating the custom icon with the original app
+6. Prefer soft colors instead of highly saturated ones.
 
+###### Guidelines for the Long Shadows (R-G-B-A)
+- `0-0-0-40` for an icon with a white/very clear background
+- `0-0-0-60` for an icon with a colored background
+- `0-0-0-80` for an icon with a black/very dark background
 
 Installation
 ----------
