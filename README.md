@@ -38,6 +38,7 @@ The same guidelines are present inside the image called `icon-template.svg` , bu
 ###### How to create a compatible long shadow (Inkscape only)
 Let's suppose we have already created an icon whose design matches the guidelines. The last step is to create the long shadow. Unfortunately, on Inkscape this is not straightforward w.r.t. other software such as Adobe Illustrator (for which there are plenty of tutorials out there).
 In the repo there's an icon called `icon-template-longshadow-tutorial.svg` that is supposed to provide a step-by-step tutorial for the long-shadow. It's divided into several images, each of them is explained here (from top to bottom):
+
 1. The icon under evaluation is a simple white contour (WC) against a blue background (BB).
 2. Let's duplicate WC, change the color according to the guidelines below (in this case `0-0-0-60` because we're having a colored background) and then `Path-> Break Apart`. Let's select only the bigger path (BP - the littler [LP] will be used later), and then duplicate it(BPD). Move the duplicated path 300px on the right and 300px on the bottom
 3. Select both BP and BPD, and then `Extensions-> from path -> Interpolate` (with parameters 0.0 200 2). Select both BP, BPD and the interpolation, and do `Object->Ungroup` and then `Path->Union`. You should have a big path (BPP) with a lot of points at its edge.
