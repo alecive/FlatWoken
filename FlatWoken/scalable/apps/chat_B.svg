@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="chat.svg"
+   sodipodi:docname="chat_B.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
@@ -26,15 +26,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.7140352"
-     inkscape:cx="299"
-     inkscape:cy="198.23438"
+     inkscape:zoom="1.4413727"
+     inkscape:cx="294"
+     inkscape:cy="202.25"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
+     inkscape:window-width="1375"
+     inkscape:window-height="876"
+     inkscape:window-x="1431"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:object-paths="false"
@@ -276,6 +276,12 @@
        transform="translate(-926.66758,684.38448)"
        id="g4038" />
   </g>
+  <path
+     style="color:#000000;fill:#000000;fill-opacity:0.23529412;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 246.375,127.5 C 163.31992,127.5 96,185.02566 96,256 c 0,31.76574 13.49596,60.82163 35.84375,83.25 L 284.5625,492 393.65625,492 C 448.13292,492 492,448.13291 492,393.65625 L 492,303.8125 361.59415,173.40665 C 334.00738,145.33661 292.6263,127.5 246.375,127.5 z"
+     id="path6322"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssccssccs" />
   <g
      id="g4076-9"
      transform="translate(-605.51937,-353.96833)">
@@ -369,14 +375,8 @@
      d="m -168.80568,544.69344 c 3.03427,39.78193 35.98369,45.46443 33.38588,52.18561 -3.20722,8.29785 -66.70341,18.17526 -82.78406,-3.33449 -16.08066,-21.50975 36.31989,-220.31889 49.39818,-48.85112 z"
      inkscape:connector-curvature="0" />
   <path
-     style="color:#000000;fill:#000000;fill-opacity:0.23529412;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     d="m 247,135.53125 c -77.86414,0 -141,53.93031 -141,120.46875 0,30.26815 13.05541,57.9312 34.625,79.09375 L 297.53125,492 l 96.125,0 C 448.13292,492 492,448.13291 492,393.65625 l 0,-78.0625 L 355.59385,179.1563 C 329.7334,152.49857 290.6863,135.53125 247,135.53125 z"
-     id="path4075"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ssccssccs" />
-  <path
      inkscape:connector-curvature="0"
      id="path3199"
-     d="M 246.98548,135.5215 C 169.12134,135.5215 106,189.46156 106,256 c 0,66.53843 63.12134,120.4785 140.98548,120.4785 30.44271,0 58.63116,-8.24955 81.67545,-22.2693 23.31677,13.14997 74.29003,4.36163 77.18955,-3.14013 2.38691,-6.17554 -24.48031,-11.52072 -32.33053,-41.91114 9.24444,-16.0366 14.45101,-34.07281 14.45101,-53.15793 0,-66.53844 -63.12135,-120.4785 -140.98548,-120.4785 z"
+     d="m 246.38451,127.4896 c -83.05508,0 -150.384509,57.53606 -150.384509,128.5104 0,70.97432 67.329429,128.5104 150.384509,128.5104 32.47223,0 62.53991,-8.79952 87.12048,-23.75392 24.87123,14.02664 79.2427,4.6524 82.33552,-3.34947 2.54605,-6.58725 -26.11233,-12.28877 -34.48589,-44.70522 9.86074,-17.10571 15.41441,-36.34433 15.41441,-56.70179 0,-70.97434 -67.32944,-128.5104 -150.38452,-128.5104 z"
      style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
 </svg>
