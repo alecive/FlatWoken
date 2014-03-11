@@ -14,7 +14,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="9gag.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
@@ -26,15 +26,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5984466"
-     inkscape:cx="308.65625"
+     inkscape:zoom="0.7992233"
+     inkscape:cx="213.87673"
      inkscape:cy="338.1216"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1309"
+     inkscape:window-width="1301"
      inkscape:window-height="744"
-     inkscape:window-x="57"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:object-paths="true"
@@ -48,11 +48,11 @@
        id="linearGradient3849">
       <stop
          id="stop3851"
-         style="stop-color:#373737;stop-opacity:1"
+         style="stop-color:#414141;stop-opacity:1;"
          offset="0" />
       <stop
          id="stop3853"
-         style="stop-color:#232323;stop-opacity:1"
+         style="stop-color:#323232;stop-opacity:1;"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -903,7 +903,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
