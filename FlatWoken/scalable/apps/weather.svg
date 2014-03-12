@@ -13,7 +13,7 @@
    inkscape:export-ydpi="100"
    inkscape:export-xdpi="100"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
-   sodipodi:docname="icon-template.svg"
+   sodipodi:docname="weather.svg"
    inkscape:version="0.48.3.1 r9886"
    version="1.1"
    id="svg2"
@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.55964021"
-     inkscape:cx="299"
-     inkscape:cy="213"
+     inkscape:zoom="0.61738098"
+     inkscape:cx="106.69747"
+     inkscape:cy="246.5"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -168,16 +168,6 @@
          style="stop-color:#ffffff;stop-opacity:0.2"
          id="stop4050-73" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient2460"
-       id="linearGradient3157"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(12.102564,0,0,12.102564,-34.468255,-46.187105)"
-       x1="18.930269"
-       y1="6.2951212"
-       x2="19.360001"
-       y2="36.643665" />
   </defs>
   <metadata
      id="metadata7">
@@ -258,7 +248,19 @@
      inkscape:connector-curvature="0"
      id="rect5505"
      d="M 118.34375,20 C 63.867087,20 20,63.867084 20,118.34375 l 0,23.0625 0,252.25 C 20,448.13291 63.867087,492 118.34375,492 l 275.3125,0 C 448.13292,492 492,448.13291 492,393.65625 l 0,-252.25 0,-23.0625 C 492,63.867084 448.13292,20 393.65625,20 l -275.3125,0 z"
-     style="fill:url(#linearGradient3157);stroke:none" />
+     style="fill:#69b6ff;stroke:none;fill-opacity:1" />
+  <path
+     style="fill:#000000;fill-opacity:0.23529412;fill-rule:nonzero;stroke:none"
+     d="m 256,178.71875 c -53.10954,0 -97.55583,34.93241 -109.84375,82 C 112.11685,265.64489 86,293.60166 86,327.46875 c 0,18.25055 7.592988,34.80442 19.90625,46.96875 L 223.46875,492 l 170.1875,0 C 448.13292,492 492,448.13291 492,393.65625 L 492,366.25 337.625,211.90625 C 317.00783,191.46729 288.07291,178.71875 256,178.71875 z"
+     id="path5252"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="scsccssccs" />
+  <path
+     style="fill:#000000;fill-opacity:0.23529412;fill-rule:nonzero;stroke:none"
+     d="M 163.28125,116.90625 C 120.60353,116.90625 86,151.51209 86,194.1875 c 0,21.71889 8.980037,41.30525 23.40625,55.34375 l 16.96875,17 c 6.16151,-2.80434 12.79462,-4.8014 19.78125,-5.8125 12.28792,-47.06759 56.73421,-82 109.84375,-82 0.34331,0 0.68866,-0.003 1.03125,0 L 218.625,140.3125 C 204.58681,125.886 185.00133,116.90625 163.28125,116.90625 z"
+     id="path4323"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sscccsccs" />
   <g
      transform="translate(-605.51932,-353.96833)"
      id="g4076">
@@ -284,106 +286,49 @@
          id="path3981-7" />
     </g>
   </g>
-  <g
-     id="g3376">
-    <text
-       sodipodi:linespacing="125%"
-       id="text3038"
-       y="139.67068"
-       x="585.31903"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-       xml:space="preserve"><tspan
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
-         y="139.67068"
-         x="585.31903"
-         id="tspan3040"
-         sodipodi:role="line">Guidelines for the Long Shadows (R-G-B-A):</tspan><tspan
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
-         id="tspan3042"
-         y="169.67068"
-         x="585.31903"
-         sodipodi:role="line">- 0-0-0-40 for an icon with a white/very clear background</tspan><tspan
-         id="tspan3044"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
-         y="199.67068"
-         x="585.31903"
-         sodipodi:role="line">- 0-0-0-60 for an icon with a colored background</tspan><tspan
-         id="tspan3046"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
-         y="229.67068"
-         x="585.31903"
-         sodipodi:role="line">- 0-0-0-80 for an icon with a black/very dark background</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-       x="585.99872"
-       y="265.24338"
-       id="text3024"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3026"
-         x="585.99872"
-         y="265.24338"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">Recommendations:</tspan><tspan
-         sodipodi:role="line"
-         x="585.99872"
-         y="295.24338"
-         id="tspan3028"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">1. Don't put a big icon inside the squared frame.</tspan><tspan
-         id="tspan3034"
-         sodipodi:role="line"
-         x="585.99872"
-         y="325.24338"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">    Its dimension should never be bigger than 350px (300x300 is recommended)</tspan><tspan
-         id="tspan3038"
-         sodipodi:role="line"
-         x="585.99872"
-         y="355.24338"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">2. BE FLAT, and BE MINIMAL! Never forget this: think always about how to</tspan><tspan
-         id="tspan3043"
-         sodipodi:role="line"
-         x="585.99872"
-         y="385.24338"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">    reduce clutter, reduce elements, simplify colors etc</tspan><tspan
-         id="tspan3045"
-         sodipodi:role="line"
-         x="585.99872"
-         y="415.24338"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">3. If the icon has an hole (e.g. the hole in a donut), that hole should be without</tspan><tspan
-         id="tspan3047"
-         sodipodi:role="line"
-         x="585.99872"
-         y="445.24338"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">    the shadow, in order to make the icon better highlighted wrt the background</tspan><tspan
-         id="tspan3033"
-         sodipodi:role="line"
-         x="585.99872"
-         y="475.24338"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">4. As a recommended suggestion, keep the number of colors limited. An icon should never</tspan><tspan
-         id="tspan3035"
-         sodipodi:role="line"
-         x="585.99872"
-         y="505.24338"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">    have too many colors. Usually, two or three colors are recommended.</tspan><tspan
-         id="tspan3037"
-         sodipodi:role="line"
-         x="585.99872"
-         y="535.24341"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">5. Try to stick with the original color palette, in order to ease for the user the process</tspan><tspan
-         id="tspan3039"
-         sodipodi:role="line"
-         x="585.99872"
-         y="565.24341"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">    of associating the custom icon with the original app</tspan><tspan
-         id="tspan3041"
-         sodipodi:role="line"
-         x="585.99872"
-         y="595.24341"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">6. Prefer soft colors instead of highly saturated ones.</tspan><tspan
-         sodipodi:role="line"
-         x="585.99872"
-         y="625.24341"
-         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
-         id="tspan3032" /></text>
-  </g>
+  <path
+     id="path14"
+     style="fill:#495672;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m -100.48497,269.54158 c 0,130.33837 -105.66162,236 -236,236 -130.33837,0 -236,-105.66163 -236,-236 0,-130.33838 105.66163,-236 236,-236 130.33838,0 236,105.66162 236,236"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path22"
+     style="fill:#394051;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m -410.23497,284.29158 c -10.91574,0 -21.27835,-2.37401 -30.60035,-6.62865 4.5371,-1.68003 9.31094,-2.90723 14.2603,-3.62113 0.52436,-2.00526 1.1092,-3.98766 1.75156,-5.94351 4.40435,0.88426 8.9503,1.37691 13.60024,1.43739 0.003,0 0.003,0 0.003,0 0.0575,0 0.11505,0 0.17258,0 0.003,0 0.009,0 0.0118,0 0.0546,0.003 0.1121,0.003 0.16741,0.003 0.005,0 0.008,0 0.014,0 0.0546,0 0.10989,0 0.16446,0 0.006,0 0.009,0 0.014,0 0.0553,0.003 0.10693,0.003 0.16151,0.003 0.006,0 0.0147,0 0.0199,0 0.0265,0 0.0524,0 0.0782,0 l 0.003,0 c 0.0258,0 0.0516,0 0.0774,0 0.009,0 0.0147,0 0.0206,0 0.0288,0 0.0546,0 0.0804,0 l 0,0 c 0.0406,0 0.0804,0 0.118,0 38.18849,-0.0605 69.5728,-29.146 73.26915,-66.375 0.23895,2.42564 0.36285,4.88594 0.36285,7.375 0,40.72991 -33.01787,73.75 -73.75,73.75"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path24"
+     style="fill:#b77744;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m -410.23497,269.54158 c -0.0258,0 -0.0516,0 -0.0804,0 0.0288,0 0.0546,0 0.0804,0 m -0.10104,0 c -0.0258,0 -0.0516,0 -0.0774,0 0.0258,0 0.0516,0 0.0774,0 m 0.21904,0 c 40.15909,-0.0634 72.79346,-32.22506 73.61504,-72.20272 -0.0376,1.96175 -0.15562,3.90653 -0.34589,5.82772 -3.69635,37.229 -35.08066,66.31453 -73.26915,66.375 m -0.29942,0 c -0.0258,0 -0.0516,0 -0.0782,0 0.0265,0 0.0524,0 0.0782,0 m -0.0981,0 c -0.0546,0 -0.1062,0 -0.16151,-0.003 0.0553,0.003 0.10988,0.003 0.16151,0.003 m -0.17553,-0.003 c -0.0546,0 -0.10988,0 -0.16446,0 0.0546,0 0.10989,0 0.16446,0 m -0.17847,0 c -0.0553,0 -0.11284,0 -0.16741,-0.003 0.0546,0.003 0.1121,0.003 0.16741,0.003 m -0.17921,-0.003 c -0.0575,0 -0.11505,0 -0.17258,0 0.0575,0 0.11505,0 0.17258,0 m -0.17553,0 c -4.64994,-0.0605 -9.19589,-0.55313 -13.60024,-1.43739 l 0,0 c 4.40435,0.88426 8.9503,1.37691 13.60024,1.43739"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path26"
+     style="fill:#404a5f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m -336.48497,195.71414 c 0,-0.006 0,-0.0147 0,-0.0206 0,0.009 0,0.0147 0,0.0206"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path30"
+     style="fill:#343945;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m -410.31536,269.54158 c -0.006,0 -0.0118,0 -0.0206,0 0.006,0 0.0177,0 0.0206,0 m -0.0981,0 -0.003,0 0.003,0 m -0.0811,0 c -0.005,0 -0.014,0 -0.0199,0 0.006,0 0.0147,0 0.0199,0 m -0.18142,-0.003 c -0.005,0 -0.008,0 -0.014,0 0.006,0 0.0111,0 0.014,0 m -0.17848,0 c -0.006,0 -0.009,0 -0.014,0 0.003,0 0.008,0 0.014,0 m -0.18142,-0.003 c -0.003,0 -0.009,0 -0.0118,0 0.006,0 0.009,0 0.0118,0 m -0.18438,0 c 0,0 0,0 -0.003,0 l 0.003,0"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path32"
+     style="fill:#97633d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m -410.23497,269.54158 0,0 c -0.0258,0 -0.0516,0 -0.0804,0 -0.003,0 -0.0147,0 -0.0206,0 -0.0258,0 -0.0516,0 -0.0774,0 l -0.003,0 c -0.0258,0 -0.0516,0 -0.0782,0 -0.005,0 -0.014,0 -0.0199,0 -0.0516,0 -0.1062,0 -0.16151,-0.003 -0.003,0 -0.008,0 -0.014,0 -0.0546,0 -0.10988,0 -0.16446,0 -0.006,0 -0.0111,0 -0.014,0 -0.0553,0 -0.11284,0 -0.16741,-0.003 -0.003,0 -0.006,0 -0.0118,0 -0.0575,0 -0.11505,0 -0.17258,0 l -0.003,0 c -4.64994,-0.0605 -9.19589,-0.55313 -13.60024,-1.43739 12.35313,-37.55792 46.49717,-65.89415 88.33259,-71.35312 -0.003,0.19838 -0.006,0.39456 -0.0111,0.59368 -0.82158,39.97767 -33.45595,72.13931 -73.61504,72.20273 -0.0376,0 -0.0774,0 -0.118,0"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path18"
+     style="fill:#e3ac5d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="m 240.54546,194.18182 c 0,42.6754 -34.595,77.27273 -77.27273,77.27273 -42.67772,0 -77.272729,-34.59733 -77.272729,-77.27273 0,-42.67541 34.595009,-77.27273 77.272729,-77.27273 42.67773,0 77.27273,34.59732 77.27273,77.27273"
+     inkscape:connector-curvature="0" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path28"
+     d="M 237.78125,173.71875 C 190.30671,178.70299 151.74628,211.67967 140.4375,255 c -6.2306,0.89933 -12.19429,2.56557 -17.78125,4.90625 8.36964,5.18569 17.78019,8.79367 27.875,10.46875 13.15295,-37.95109 47.63528,-66.58678 89.9375,-72.875 0.0464,-1.09991 0.0625,-2.20116 0.0625,-3.3125 0,-7.09053 -0.96155,-13.94586 -2.75,-20.46875 z"
+     style="fill:#000000;fill-opacity:0.23529412000000000;fill-rule:nonzero;stroke:none;color:#000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.5" />
+  <path
+     id="path34"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     d="M 369.33437,286.90909 C 369.33437,227.16182 318.594,178.72727 256,178.72727 c -53.10954,0 -97.5599,34.92032 -109.84782,81.98791 -34.0394,4.92614 -60.152179,32.895 -60.152179,66.76209 0,37.34128 31.711949,67.61364 70.834359,67.61364 l 212.50001,0 C 400.62982,395.09091 426,370.87364 426,341 c 0,-29.87364 -25.37018,-54.09091 -56.66563,-54.09091"
+     inkscape:connector-curvature="0" />
 </svg>

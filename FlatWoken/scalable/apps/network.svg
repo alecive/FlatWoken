@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="browser.svg"
+   sodipodi:docname="network.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
@@ -32,9 +32,9 @@
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1375"
-     inkscape:window-height="876"
-     inkscape:window-x="1431"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:object-paths="false"
@@ -376,7 +376,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -489,7 +489,7 @@
     </g>
   </g>
   <path
-     style="opacity:0.9;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="opacity:0.95;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      id="path3804-7"
      inkscape:connector-curvature="0"
      d="m 387.61937,95.981402 c -2.43817,0 -4.76999,0.91117 -6.48125,2.65897 l -64.97876,64.978758 -29.58113,0 c -2.43567,-0.0213 -4.92378,0.93799 -6.64744,2.65898 l -43.04219,43.0422 c -3.49571,3.42253 -3.49571,9.87241 0,13.29488 l 52.68098,52.68099 c 1.7586,1.75716 4.16215,2.71859 6.64745,2.65898 2.38574,-0.0213 4.79291,-0.97319 6.48125,-2.65898 l 43.20839,-43.20838 c 1.72099,-1.72365 2.67844,-4.04558 2.65897,-6.48126 l 0,-29.7473 64.81258,-64.81258 c 3.4957,-3.42247 3.4957,-9.87236 0,-13.29488 l -19.1114,-19.111408 c -1.71127,-1.7478 -4.20932,-2.65897 -6.64745,-2.65897 z M 215.78296,234.08203 c -2.38579,0.0213 -4.79291,1.13943 -6.48125,2.82517 l -43.20839,43.04219 c -1.72098,1.72371 -2.67844,4.21177 -2.65897,6.64745 l 0,29.58112 -64.812575,64.97876 c -3.4957,3.42253 -3.4957,9.70622 0,13.1287 l 19.111395,19.1114 c 3.42253,3.4957 9.70618,3.4957 13.1287,0 l 64.97877,-64.81258 29.58113,0 c 2.43567,0.0213 4.92378,-0.93792 6.64744,-2.65897 l 43.04219,-43.20838 c 3.49571,-3.42248 3.49571,-9.70617 0,-13.1287 L 222.43041,236.9072 c -1.7586,-1.75711 -4.16215,-2.88473 -6.64745,-2.82517 z" />
