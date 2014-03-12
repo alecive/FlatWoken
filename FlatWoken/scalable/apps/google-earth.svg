@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="icon-template.svg"
+   sodipodi:docname="google-earth.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.55964021"
-     inkscape:cx="299"
+     inkscape:cx="28.29036"
      inkscape:cy="213"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
@@ -346,10 +346,6 @@
          style="stop-color:#00a7f0;stop-opacity:1;" />
       <stop
          id="stop36-5"
-         offset="0.35393199"
-         style="stop-color:#006896;stop-opacity:1;" />
-      <stop
-         id="stop38-0"
          offset="1"
          style="stop-color:#003950;stop-opacity:1;" />
     </radialGradient>
@@ -407,7 +403,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
