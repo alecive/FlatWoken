@@ -168,6 +168,16 @@
          style="stop-color:#ffffff;stop-opacity:0.2"
          offset="1" />
     </linearGradient>
+    <linearGradient
+       y2="36.643665"
+       x2="19.360001"
+       y1="6.2951212"
+       x1="18.930269"
+       gradientTransform="matrix(12.102564,0,0,12.102564,-34.468255,-46.187105)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3157"
+       xlink:href="#linearGradient2460"
+       inkscape:collect="always" />
   </defs>
   <metadata
      id="metadata7">
@@ -245,7 +255,7 @@
        ry="99.0625" />
   </g>
   <path
-     style="fill:#0bb4ef;stroke:none;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+     style="fill:url(#linearGradient3157);stroke:none"
      d="M 118.34375,20 C 63.867087,20 20,63.867084 20,118.34375 l 0,23.0625 0,252.25 C 20,448.13291 63.867087,492 118.34375,492 l 275.3125,0 C 448.13292,492 492,448.13291 492,393.65625 l 0,-252.25 0,-23.0625 C 492,63.867084 448.13292,20 393.65625,20 l -275.3125,0 z"
      id="rect5505"
      inkscape:connector-curvature="0" />
@@ -281,19 +291,19 @@
     </g>
   </g>
   <path
-     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+     style="color:#000000;fill:#0bb4ef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
      id="path3595"
      d="m 212.74666,133.51619 -101.42475,20.23619 v 93.62286 l 101.42475,-1.70667 V 133.51619" />
   <path
-     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+     style="color:#000000;fill:#0bb4ef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
      id="path3593"
      d="m 400.67809,269.48571 -164.7238,-2.81904 V 383.10095 L 400.67809,416 V 269.48571" />
   <path
-     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+     style="color:#000000;fill:#0bb4ef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
      id="path3591"
      d="m 212.74666,266.31619 -101.42476,-1.7219 v 93.60762 l 101.42476,20.25142 V 266.31619" />
   <path
-     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
+     style="color:#000000;fill:#0bb4ef;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:new"
      id="path3"
      d="m 400.67809,96 -164.7238,32.86857 v 116.43429 l 164.7238,-2.80381 V 96" />
 </svg>
