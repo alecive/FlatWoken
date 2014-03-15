@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="search.svg"
+   sodipodi:docname="search-log.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
@@ -200,6 +200,37 @@
        gradientUnits="userSpaceOnUse"
        id="linearGradient4080"
        xlink:href="#outerBackgroundGradient-3"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4042"
+       id="linearGradient3083"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0642373,0,0,1.0642373,-1.0152197,-4.4276623)"
+       x1="40.543461"
+       y1="83.183121"
+       x2="40.543461"
+       y2="-52.934109" />
+    <linearGradient
+       id="linearGradient4042">
+      <stop
+         id="stop4044"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4046"
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="-52.934109"
+       x2="40.543461"
+       y1="83.183121"
+       x1="40.543461"
+       gradientTransform="matrix(5.0552668,0,0,5.0552668,97.791602,401.81395)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3111"
+       xlink:href="#linearGradient4042"
        inkscape:collect="always" />
   </defs>
   <metadata
