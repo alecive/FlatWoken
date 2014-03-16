@@ -26,8 +26,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.77146465"
-     inkscape:cx="309.57813"
+     inkscape:zoom="0.38573233"
+     inkscape:cx="113.19843"
      inkscape:cy="218"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
@@ -168,6 +168,38 @@
          style="stop-color:#ffffff;stop-opacity:0.2"
          id="stop4050-73" />
     </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient830"
+       id="linearGradient836"
+       x1="171.0304"
+       y1="781.84113"
+       x2="171.0304"
+       y2="569.09381"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1715905,0,0,2.1715905,19.342067,-1205.8387)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient830">
+      <stop
+         style="stop-color:#f1992c;stop-opacity:1"
+         offset="0"
+         id="stop832" />
+      <stop
+         style="stop-color:#f4c156;stop-opacity:1"
+         offset="1"
+         id="stop834" />
+    </linearGradient>
+    <linearGradient
+       y2="1030.2434"
+       x2="-3.3402286"
+       y1="1038.5532"
+       x1="-3.3402286"
+       gradientTransform="matrix(2.1715905,0,0,2.1715905,16.364848,-2237.1781)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3527"
+       xlink:href="#linearGradient830"
+       inkscape:collect="always" />
   </defs>
   <metadata
      id="metadata7">
@@ -248,7 +280,7 @@
      inkscape:connector-curvature="0"
      id="rect5505"
      d="M 118.34375,20 C 63.867087,20 20,63.867084 20,118.34375 l 0,23.0625 0,252.25 C 20,448.13291 63.867087,492 118.34375,492 l 275.3125,0 C 448.13292,492 492,448.13291 492,393.65625 l 0,-252.25 0,-23.0625 C 492,63.867084 448.13292,20 393.65625,20 l -275.3125,0 z"
-     style="fill:#368992;stroke:none;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="fill:url(#linearGradient836);stroke:none;color:#000000;fill-opacity:1;fill-rule:nonzero;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <g
      transform="translate(-605.51932,-353.96833)"
      id="g4076">
