@@ -3,67 +3,88 @@ Name=FlatWoken
 Comment=Flat, long-shadow icon theme by alecive
 Inherits=AwOkenWhite,AwOken,AwOkenDark,kAwOkenWhite,kAwOken,kAwOkenDark,ubuntu-mono-dark,gnome,hicolor
 Example=logo
+
+DisplayDepth=32
+
+LinkOverlay=link
+LockOverlay=lockoverlay
+ShareOverlay=share
+ZipOverlay=zip
+
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=32
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
+
 Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/status,scalable/stock
 
 [scalable/actions]
 Context=Actions
 Size=512
-MinSize=32
+MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Threshold
 
 [scalable/apps]
 Context=Applications
 Size=512
-MinSize=32
+MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Threshold
 
 [scalable/categories]
 Context=Categories
 Size=512
-MinSize=32
+MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Threshold
 
 [scalable/devices]
 Context=Devices
 Size=512
-MinSize=32
+MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Threshold
 
 [scalable/emblems]
 Context=Emblems
 Size=512
-MinSize=32
+MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Threshold
 
 [scalable/mimetypes]
 Context=MimeTypes
 Size=512
-MinSize=32
+MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Threshold
 
 [scalable/places]
 Context=Places
 Size=512
-MinSize=32
+MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Threshold
 
 [scalable/status]
 Context=Status
 Size=512
-MinSize=32
+MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Threshold
 
 [scalable/stock]
 Context=Stock
 Size=512
 MinSize=64
 MaxSize=1024
-Type=Scalable
+Type=Threshold
