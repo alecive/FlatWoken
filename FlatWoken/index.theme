@@ -31,60 +31,60 @@ Context=Actions
 Size=512
 MinSize=8
 MaxSize=512
-Type=Threshold
+Type=Scalable
 
 [scalable/apps]
 Context=Applications
 Size=512
 MinSize=8
 MaxSize=512
-Type=Threshold
+Type=Scalable
 
 [scalable/categories]
 Context=Categories
 Size=512
 MinSize=8
 MaxSize=512
-Type=Threshold
+Type=Scalable
 
 [scalable/devices]
 Context=Devices
 Size=512
 MinSize=8
 MaxSize=512
-Type=Threshold
+Type=Scalable
 
 [scalable/emblems]
 Context=Emblems
 Size=512
 MinSize=8
 MaxSize=512
-Type=Threshold
+Type=Scalable
 
 [scalable/mimetypes]
 Context=MimeTypes
 Size=512
 MinSize=8
 MaxSize=512
-Type=Threshold
+Type=Scalable
 
 [scalable/places]
 Context=Places
 Size=512
 MinSize=8
 MaxSize=512
-Type=Threshold
+Type=Scalable
 
 [scalable/status]
 Context=Status
 Size=512
 MinSize=8
 MaxSize=512
-Type=Threshold
+Type=Scalable
 
 [scalable/stock]
 Context=Stock
 Size=512
 MinSize=64
 MaxSize=1024
-Type=Threshold
+Type=Scalable
