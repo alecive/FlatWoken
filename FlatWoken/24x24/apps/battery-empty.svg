@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7384"
+   height="24"
+   width="24"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="battery-empty.svg">
+  <defs
+     id="defs11">
+    <linearGradient
+       id="linearGradient3758">
+      <stop
+         id="stop3760"
+         style="stop-color:#c00000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3762"
+         style="stop-color:#ff7e7e;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1375"
+     inkscape:window-height="876"
+     id="namedview9"
+     showgrid="false"
+     inkscape:zoom="29.554833"
+     inkscape:cx="6.0079495"
+     inkscape:cy="7.4984518"
+     inkscape:window-x="1431"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg7384" />
+  <metadata
+     id="metadata90">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Gnome Symbolic Icon Theme</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title9167">Gnome Symbolic Icon Theme</title>
+  <g
+     transform="matrix(0.5625,0,0,0.5625,-1.5,-566.45374)"
+     id="layer1"
+     inkscape:label="Capa 1"
+     style="fill:#ef2929;fill-opacity:1">
+    <g
+       style="fill:#ef2929;fill-opacity:1"
+       inkscape:label="Capa 1"
+       id="layer1-7">
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:#ef2929;fill-opacity:1;stroke:none"
+         d="M 24,8 C 15.163444,8 8,15.163444 8,24 8,32.836556 15.163444,40 24,40 32.836556,40 40,32.836556 40,24 40,15.163444 32.836556,8 24,8 z m -0.394531,6 0,7.498047 7.144531,0 L 23.410156,34 l 0,-8.332031 L 17.25,25.664062 23.605469,14 z"
+         transform="translate(0,1004.3622)"
+         id="path3230" />
+    </g>
+  </g>
+</svg>
