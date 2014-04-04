@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
-   height="24"
-   width="24"
+   height="22"
+   width="22"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="battery-full-charged.svg">
+   sodipodi:docname="battery-empty-charging.svg">
   <defs
      id="defs17" />
   <sodipodi:namedview
@@ -30,9 +30,9 @@
      inkscape:window-height="744"
      id="namedview15"
      showgrid="false"
-     inkscape:zoom="16.972222"
-     inkscape:cx="12"
-     inkscape:cy="11"
+     inkscape:zoom="10.449211"
+     inkscape:cx="-14.516482"
+     inkscape:cy="5.5219985"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -55,22 +55,22 @@
      id="title9167">Gnome Symbolic Icon Theme</title>
   <g
      id="g3238"
-     transform="scale(1.5,1.5)">
+     transform="matrix(1.4814815,0,0,1.4814815,-0.85185181,-0.85185204)">
     <path
-       sodipodi:type="arc"
-       style="opacity:0.9;fill:#ffffff;fill-opacity:1;stroke:none"
-       id="path3230"
-       sodipodi:cx="22.015171"
-       sodipodi:cy="26.160952"
-       sodipodi:rx="17.788258"
-       sodipodi:ry="17.788258"
+       transform="matrix(0.30357104,0,0,0.30357104,1.3168315,0.05829274)"
        d="m 39.803429,26.160952 c 0,9.824183 -7.964075,17.788257 -17.788258,17.788257 -9.824183,0 -17.7882575,-7.964074 -17.7882575,-17.788257 0,-9.824184 7.9640745,-17.788258 17.7882575,-17.788258 9.824183,0 17.788258,7.964074 17.788258,17.788258 z"
-       transform="matrix(0.33730116,0,0,0.33730116,0.57425727,-0.82411933)" />
+       sodipodi:ry="17.788258"
+       sodipodi:rx="17.788258"
+       sodipodi:cy="26.160952"
+       sodipodi:cx="22.015171"
+       id="path3230"
+       style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc" />
     <path
-       style="color:#000000;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       d="M 5.46875,8.6239625 7.8518001,4.25 l 0,2.81205 2.6794499,0 -2.7523499,4.68795 0,-3.1245375 z"
-       id="path878"
+       sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       id="path878"
+       d="M 5.7218749,8.5615664 7.86662,4.6250002 l 0,2.5308449 2.411505,0 L 7.80101,11.375 l 0,-2.8120836 z"
+       style="color:#000000;fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89999998;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>

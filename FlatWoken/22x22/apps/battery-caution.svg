@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7384"
-   height="24"
-   width="24"
+   height="22"
+   width="22"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="battery-caution-charging.svg">
+   sodipodi:docname="battery-caution.svg">
   <defs
      id="defs18" />
   <sodipodi:namedview
@@ -26,14 +26,14 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1375"
-     inkscape:window-height="876"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
      id="namedview16"
      showgrid="false"
-     inkscape:zoom="41.27778"
-     inkscape:cx="12"
+     inkscape:zoom="20.63889"
+     inkscape:cx="6.3553166"
      inkscape:cy="12"
-     inkscape:window-x="1431"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg7384" />
@@ -53,7 +53,7 @@
      id="title9167">Gnome Symbolic Icon Theme</title>
   <g
      id="g3240"
-     transform="matrix(1.4999997,0,0,1.4999999,2.2499997e-6,1.4e-6)">
+     transform="matrix(1.3333331,0,0,1.3333332,0.33333507,0.33333494)">
     <g
        style="fill:#f57900;fill-opacity:1"
        inkscape:label="Capa 1"
@@ -66,9 +66,10 @@
     </g>
     <path
        style="opacity:0.2;fill:#ffffff;fill-opacity:1;stroke:none"
-       d="M 12 3 C 7.0294355 3 3 7.0294128 3 12 C 3 16.970587 7.0294355 21 12 21 C 16.970558 21 21 16.970587 21 12 C 21 7.0294128 16.970558 3 12 3 z M 11.78125 6.375 L 11.78125 10.59375 L 15.8125 10.59375 L 11.65625 17.625 L 11.65625 12.9375 L 8.1875 12.9375 L 11.78125 6.375 z "
+       d="m 12,3 c -4.9705645,0 -9,4.0294128 -9,9 0,4.970587 4.0294355,9 9,9 4.970558,0 9,-4.029413 9,-9 0,-4.9705872 -4.029442,-9 -9,-9 z m -0.21875,3.375 0,4.21875 4.03125,0 -4.15625,7.03125 0,-4.6875 -3.46875,0 3.59375,-6.5625 z"
        transform="matrix(0.6666668,0,0,0.66666671,-1.5000001e-6,-9.333334e-7)"
-       id="path4302" />
+       id="path4302"
+       inkscape:connector-curvature="0" />
     <path
        id="path4073"
        d="M 3.5585929,12.023225 C 4.6546349,13.235674 6.2361369,14 8.0000012,14 c 1.4785012,0 2.8268738,-0.53895 3.8701158,-1.426763 -1.144413,-0.20055 -2.6480246,-0.311475 -4.62378,-0.2124 -1.7101361,0.0858 -2.8697551,-0.10425 -3.6877441,-0.337612 z"

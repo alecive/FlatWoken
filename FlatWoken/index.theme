@@ -24,7 +24,7 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/status,scalable/stock,24x24/status,24x24/apps
+Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/status,scalable/stock,22x22/status,22x22/apps
 
 [scalable/actions]
 Context=Actions
@@ -89,16 +89,16 @@ MinSize=64
 MaxSize=1024
 Type=Scalable
 
-[24x24/status]
+[22x22/status]
 Context=Status
-Size=24
+Size=22
 MinSize=8
 MaxSize=32
 Type=Scalable
 
-[24x24/apps]
+[22x22/apps]
 Context=Applications
-Size=24
+Size=22
 MinSize=8
 MaxSize=32
 Type=Scalable
