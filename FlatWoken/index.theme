@@ -93,12 +93,12 @@ Type=Scalable
 Context=Status
 Size=22
 MinSize=8
-MaxSize=32
+MaxSize=22
 Type=Scalable
 
 [22x22/apps]
 Context=Applications
 Size=22
 MinSize=8
-MaxSize=32
+MaxSize=22
 Type=Scalable
