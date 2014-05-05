@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="icon-template-file.svg"
+   sodipodi:docname="file-text-plain.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
@@ -26,7 +26,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.6026384"
+     inkscape:zoom="0.1506596"
      inkscape:cx="-35.190767"
      inkscape:cy="232.51603"
      inkscape:document-units="px"
@@ -221,7 +221,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -306,33 +306,6 @@
        id="g4038"
        transform="translate(-926.66758,684.38448)" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
-     x="584.21265"
-     y="38.652325"
-     id="text3038"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3040"
-       x="584.21265"
-       y="38.652325"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">Color guidelines for the Long Shadows (R-G-B-A):</tspan><tspan
-       sodipodi:role="line"
-       x="584.21265"
-       y="68.652328"
-       id="tspan3042"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">- 0-0-0-40 for an icon with a white/very clear background</tspan><tspan
-       sodipodi:role="line"
-       x="584.21265"
-       y="98.652328"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
-       id="tspan3044">- 0-0-0-60 for an icon with a colored background</tspan><tspan
-       sodipodi:role="line"
-       x="584.21265"
-       y="128.65233"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
-       id="tspan3046">- 0-0-0-80 for an icon with a black/very dark background</tspan></text>
   <path
      style="fill:#000000;fill-opacity:0.15686275;fill-rule:nonzero;stroke:none"
      d="m 355.25,20 0,102.5625 c 0,9.77909 4.10646,18.58192 10.6875,24.8125 L 492,273.46875 492,156.75 423.625,88.375 z"
@@ -345,9 +318,8 @@
      d="m 355.25323,19.99999 0,102.555 c 0,18.88151 15.30349,34.185 34.185,34.185 l 102.555,0 -136.74,-136.74"
      inkscape:connector-curvature="0" />
   <path
-     id="path3054"
-     d="m -499.05794,492.00001 143.26225,-0.20491 146.43752,-0.23905 19.56366,-403.1859 c 0,0 -403.54595,25.69235 -403.53113,25.7156 -0.098,30.40501 -0.10242,74.20703 -0.10242,141.96548 0,67.76624 0.005,111.56038 0.10236,141.96542 2.15846,51.17745 43.06603,91.96213 94.26767,93.98336 z"
-     style="color:#000000;fill:#e4e6d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccsccc" />
+     d="m 76.000718,233.5 0,11.25 33.750002,0 0,-11.25 -33.750002,0 z m 0,45 0,11.25 39.600002,0 0,-11.25 -39.600002,0 z m 0,22.5 0,11.25 42.300002,0 0,-11.25 -42.300002,0 z m 0,22.5 0,11.25 36.449992,0 0,-11.25 -36.449992,0 z m 0,24.25781 0,10.89844 31.950002,0 0,-10.89844 -31.950002,0 z M 115.60072,233.5 l 0,11.25 32.4,0 0,-11.25 -32.4,0 z m -39.600002,22.5 0,11.25 14.4,0 0,-11.25 -14.4,0 z m 45.449992,22.5 0,11.25 26.55001,0 0,-11.25 -26.55001,0 z m 1.8,22.5 0,11.25 39.15001,0 0,-11.25 -39.15001,0 z m -4.94999,22.5 0,11.25 29.7,0 0,-11.25 -29.7,0 z m -5.4,24.25781 0,10.89844 30.6,0 0,-10.89844 -30.6,0 z M 76.000718,379.75 l 0,11.25 61.649992,0 0,-11.25 -61.649992,0 z m 0,22.5 0,11.25 53.100002,0 0,-11.25 -53.100002,0 z m 57.150002,0 0,11.25 25.65,0 0,-11.25 -25.65,0 z m -9,22.5 0,11.25 48.15,0 0,-11.25 -48.15,0 z m -48.150002,0 43.729202,0 0,11.25 -43.729202,0 0,-11.25 z m 49.049992,-247.5 0,11.25 80.55001,0 0,-11.25 -80.55001,0 z m 0.44928,22.5 0,11.25 73.35001,0 0,-11.25 -73.35001,0 z m 17.10001,180 0,11.25 66.15,0 0,-11.25 -66.15,0 z m 71.09999,0 0,11.25 26.10001,0 0,-11.25 -26.10001,0 z m 31.05001,0 0,11.25 62.1,0 0,-11.25 -62.1,0 z m 67.05,0 0,11.25 42.75,0 0,-11.25 -42.75,0 z m 47.25,0 0,11.25 16.64999,0 0,-11.25 -16.64999,0 z m 21.6,0 0,11.25 9.9,0 0,-11.25 -9.9,0 z m 14.4,0 0,11.25 26.55,0 0,-11.25 -26.55,0 z m -230.85,22.5 0,11.25 11.69999,0 0,-11.25 -11.69999,0 z m 14.85,0 0,11.25 23.4,0 0,-11.25 -23.4,0 z m 27,0 0,11.25 23.4,0 0,-11.25 -23.4,0 z m 30.6,0 0,11.25 37.35,0 0,-11.25 -37.35,0 z m 41.84999,0 0,11.25 48.6,0 0,-11.25 -48.6,0 z m 55.35001,0 0,11.25 32.84999,0 0,-11.25 -32.84999,0 z m 36.9,0 0,11.25 7.65,0 0,-11.25 -7.65,0 z m -294.750002,-225 0,11.25 44.099992,0 0,-11.25 -44.099992,0 z m 0,22.5 0,11.25 44.550002,0 0,-11.25 -44.550002,0 z m 0,-123.750002 0,11.25 34.200002,0 0,-11.25 -34.200002,0 z m 38.699992,0 0,11.25 32.4,0 0,-11.25 -32.4,0 z m 36.90001,0 0,11.25 28.35,0 0,-11.25 -28.35,0 z m 32.85,0 0,11.25 12.6,0 0,-11.25 -12.6,0 z m 17.1,0 0,11.25 27.9,0 0,-11.25 -27.9,0 z m 32.85,0 0,11.25 72,0 0,-11.25 -72,0 z m -158.400002,22.5 0,11.250002 54.450002,0 0,-11.250002 -54.450002,0 z m 59.850002,0 0,11.250002 26.1,0 0,-11.250002 -26.1,0 z m 31.04999,0 0,11.250002 12.15001,0 0,-11.250002 -12.15001,0 z m 17.55001,0 0,11.250002 23.4,0 0,-11.250002 -23.4,0 z m 28.8,0 0,11.250002 23.4,0 0,-11.250002 -23.4,0 z m 28.35,0 0,11.250002 38.25,0 0,-11.250002 -38.25,0 z m 43.65,0 0,11.250002 49.95,0 0,-11.250002 -49.95,0 z M 75.999998,121 l 0,11.25 60.299992,0 0,-11.25 -60.299992,0 z m 64.800002,0 0,11.25 64.8,0 0,-11.25 -64.8,0 z m -64.800002,22.5 0,11.25 33.299992,0 0,-11.25 -33.299992,0 z m 37.800002,0 0,11.25 31.05,0 0,-11.25 -31.05,0 z m 35.55,0 0,11.25 27.45,0 0,-11.25 -27.45,0 z m 54.9,56.25 0,11.25 27.44999,0 0,-11.25 -27.44999,0 z m 31.95,0 0,11.25 27.45,0 0,-11.25 -27.45,0 z m 31.95,0 0,11.25 39.6,0 0,-11.25 -39.6,0 z m 44.54999,0 0,11.25 8.10001,0 0,-11.25 -8.10001,0 z M 205.6,278.5 l 0,11.25 33.75,0 0,-11.25 -33.75,0 z m 38.25,0 0,11.25 31.5,0 0,-11.25 -31.5,0 z m 36,0 0,11.25 26.55,0 0,-11.25 -26.55,0 z m -74.25,22.5 0,11.25 27,0 0,-11.25 -27,0 z m 31.49999,0 0,11.25 69.30001,0 0,-11.25 -69.30001,0 z m 73.8,0 0,11.25 53.10001,0 0,-11.25 -53.10001,0 z M 205.6,323.5 l 0,11.25 35.09999,0 0,-11.25 -35.09999,0 z m 40.05,0 0,11.25 61.64999,0 0,-11.25 -61.64999,0 z m 66.15,0 0,11.25 42.29999,0 0,-11.25 -42.29999,0 z m -106.2,23.90625 0,10.89844 27,0 0,-10.89844 -27,0 z m 31.49999,0 0,10.89844 27.45001,0 0,-10.89844 -27.45001,0 z m 31.95001,0 0,10.89844 39.15,0 0,-10.89844 -39.15,0 z m 43.64999,0 0,10.89844 8.10001,0 0,-10.89844 -8.10001,0 z m 12.6,0 0,10.89844 50.85001,0 0,-10.89844 -50.85001,0 z m -120.6,77.34375 0,11.25 35.10001,0 0,-11.25 -35.10001,0 z m 39.6,0 0,11.25 32.4,0 0,-11.25 -32.4,0 z m 37.35001,0 0,11.25 27.9,0 0,-11.25 -27.9,0 z m 32.4,0 0,11.25 44.55,0 0,-11.25 -44.55,0 z m 49.5,0 0,11.25 72.45,0 0,-11.25 -72.45,0 z"
+     style="fill:#c8c8c8;fill-opacity:1;stroke:none;display:inline"
+     id="path5302"
+     inkscape:connector-curvature="0" />
 </svg>
