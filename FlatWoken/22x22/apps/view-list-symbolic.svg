@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,34 +99,40 @@
      inkscape:window-height="876"
      id="namedview3033"
      showgrid="false"
-     inkscape:zoom="8.4722222"
-     inkscape:cx="50.494016"
-     inkscape:cy="7.546875"
+     inkscape:zoom="27.260427"
+     inkscape:cx="10.959874"
+     inkscape:cy="11"
      inkscape:window-x="1431"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3007"
-     inkscape:snap-bbox="true"
-     inkscape:object-paths="false"
-     inkscape:snap-intersection-paths="false"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:object-nodes="true" />
-  <path
-     sodipodi:nodetypes="csccsccc"
-     inkscape:connector-curvature="0"
-     id="path3019"
-     d="M 4.15625,9.220779 C 2.973244,9.220779 2,10.003735 2,10.987013 c 0,0.983278 0.973244,1.792208 2.15625,1.792208 l 13.6875,0 c 1.183006,0 2.15625,-0.80893 2.15625,-1.792208 l 0,-0.103896 C 19.93,9.944412 18.975296,9.220779 17.84375,9.220779 z"
-     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.9" />
-  <path
-     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.9"
-     d="M 4.15625,14.779221 C 2.973244,14.779221 2,15.562178 2,16.545455 c 0,0.983278 0.973244,1.792208 2.15625,1.792208 l 13.6875,0 c 1.183006,0 2.15625,-0.80893 2.15625,-1.792208 l 0,-0.103896 c -0.07,-0.938704 -1.024704,-1.662338 -2.15625,-1.662338 z"
-     id="path3902"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="csccsccc" />
-  <path
-     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.9"
-     d="M 4.15625,3.662337 C 2.973244,3.662337 2,4.4452931 2,5.4285708 2,6.4118485 2.973244,7.2207786 4.15625,7.2207786 l 13.6875,0 C 19.026756,7.2207786 20,6.4118485 20,5.4285708 L 20,5.3246747 C 19.93,4.3859701 18.975296,3.662337 17.84375,3.662337 z"
-     id="path3038"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="csccsccc" />
+     inkscape:current-layer="svg3007" />
+  <g
+     id="g3105"
+     transform="translate(0,1.4531252)"
+     style="fill:#ffffff;opacity:0.9">
+    <rect
+       rx="0"
+       y="14.246875"
+       x="3.5"
+       height="2.5999999"
+       width="15"
+       id="rect3061"
+       style="opacity:0.90000000000000002;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0.90000000000000002;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect3063"
+       width="15"
+       height="2.5999999"
+       x="3.5"
+       y="8.2468748"
+       rx="0" />
+    <rect
+       rx="0"
+       y="2.2468748"
+       x="3.5"
+       height="2.5999999"
+       width="15"
+       id="rect3103"
+       style="opacity:0.90000000000000002;color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  </g>
 </svg>
