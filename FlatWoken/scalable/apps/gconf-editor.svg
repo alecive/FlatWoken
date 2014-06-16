@@ -13,7 +13,7 @@
    inkscape:export-ydpi="100"
    inkscape:export-xdpi="100"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
-   sodipodi:docname="dconf-editor.svg"
+   sodipodi:docname="gconf-editor.svg"
    inkscape:version="0.48.3.1 r9886"
    version="1.1"
    id="svg2"
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.62219959"
-     inkscape:cx="257.7792"
+     inkscape:cx="510.91341"
      inkscape:cy="310.78805"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
@@ -48,11 +48,11 @@
     <linearGradient
        id="linearGradient4534">
       <stop
-         style="stop-color:#c36969;stop-opacity:1;"
+         style="stop-color:#d5d5d1;stop-opacity:1;"
          offset="0"
          id="stop4536" />
       <stop
-         style="stop-color:#9f4040;stop-opacity:1;"
+         style="stop-color:#aeaea6;stop-opacity:1;"
          offset="1"
          id="stop4538" />
     </linearGradient>
@@ -1656,7 +1656,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
