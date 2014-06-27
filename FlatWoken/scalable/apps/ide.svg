@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48+devel r"
+   sodipodi:docname="ide.svg"
+   inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.69295772"
+     inkscape:cx="25.105683"
+     inkscape:cy="169.57071"
+     inkscape:document-units="px"
+     inkscape:current-layer="svg2"
+     showgrid="false"
+     inkscape:window-width="1375"
+     inkscape:window-height="876"
+     inkscape:window-x="1985"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:object-paths="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-nodes="true" />
+  <defs
+     id="defs4">
+    <linearGradient
+       x1="19.244999"
+       y1="21.030804"
+       x2="19.360001"
+       gradientUnits="userSpaceOnUse"
+       y2="44.984001"
+       id="linearGradient2460">
+      <stop
+         offset="0"
+         style="stop-color:#fafafa;stop-opacity:1;"
+         id="stop3602" />
+      <stop
+         offset="1"
+         style="stop-color:#f0f0f0;stop-opacity:1;"
+         id="stop3604" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#ButtonShadow-0-1-1-5-9"
+       id="linearGradient4114-2-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0317796,0,0,1.0317796,-830.86406,592.67791)"
+       x1="1012.5133"
+       y1="484.41721"
+       x2="1006.8082"
+       y2="20.625916" />
+    <linearGradient
+       x1="45.447727"
+       y1="92.539597"
+       x2="45.447727"
+       y2="7.0165396"
+       id="ButtonShadow-0-1-1-5-9"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0058652,0,0,0.994169,100,0)">
+      <stop
+         id="stop3750-8-9-3-6-4"
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3752-5-6-4-2-9"
+         style="stop-color:#000000;stop-opacity:0.58823532"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#ButtonShadow-0-1-1-5-9"
+       id="linearGradient4112-2-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0402541,0,0,1.0402541,-837.95116,592.51825)"
+       x1="1012.5133"
+       y1="484.41721"
+       x2="1006.8082"
+       y2="20.625916" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#ButtonShadow-0-1-1-5-9"
+       id="linearGradient4110-6-7"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.023305,0,0,1.023305,-823.77704,592.83757)"
+       x1="1012.5133"
+       y1="484.41721"
+       x2="1006.8082"
+       y2="20.625916" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#ButtonShadow-0-1-1-5-9"
+       id="linearGradient4116-6-3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0148305,0,0,1.0148305,-816.68996,592.99723)"
+       x1="1012.5133"
+       y1="484.41721"
+       x2="1006.8082"
+       y2="20.625916" />
+    <linearGradient
+       y2="20.625916"
+       x2="1006.8082"
+       y1="484.41721"
+       x1="1012.5133"
+       gradientTransform="matrix(1.0074153,0,0,1.0074153,-810.48879,593.1369)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient5342-3"
+       xlink:href="#ButtonShadow-0-1-1-5-9"
+       inkscape:collect="always" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3737-9"
+       id="linearGradient4084-8"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(778.59979,-360.55963)"
+       x1="993.43896"
+       y1="51.511765"
+       x2="988.78552"
+       y2="363.73825" />
+    <linearGradient
+       id="linearGradient3737-9">
+      <stop
+         id="stop3739-7"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3741-4"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4046-3"
+       id="linearGradient4086-12"
+       gradientUnits="userSpaceOnUse"
+       x1="1764.6487"
+       y1="155.59685"
+       x2="1763.6903"
+       y2="-55.941216" />
+    <linearGradient
+       id="linearGradient4046-3">
+      <stop
+         id="stop4048-7"
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop4050-73"
+         style="stop-color:#ffffff;stop-opacity:0.2"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       y2="36.643665"
+       x2="19.360001"
+       y1="6.2951212"
+       x1="18.930269"
+       gradientTransform="matrix(12.102564,0,0,12.102564,-34.468255,-46.187105)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3157"
+       xlink:href="#linearGradient2460"
+       inkscape:collect="always" />
+    <linearGradient
+       gradientTransform="translate(55.125,2.9999913)"
+       gradientUnits="userSpaceOnUse"
+       y2="-1007.4872"
+       x2="-31.1875"
+       y1="-1055.4247"
+       x1="-31.1875"
+       id="linearGradient1061"
+       xlink:href="#linearGradient960"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient960">
+      <stop
+         id="stop962"
+         offset="0"
+         style="stop-color:#272822;stop-opacity:1" />
+      <stop
+         id="stop964"
+         offset="1"
+         style="stop-color:#32342c;stop-opacity:0.99607843" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5161">
+      <stop
+         style="stop-color:#dcdcdc;stop-opacity:1"
+         offset="0"
+         id="stop5163" />
+      <stop
+         style="stop-color:#fafafa;stop-opacity:1"
+         offset="1"
+         id="stop5165" />
+    </linearGradient>
+    <linearGradient
+       y2="-1007.4872"
+       x2="-31.1875"
+       y1="-1055.4247"
+       x1="-31.1875"
+       gradientTransform="matrix(9.833328,0,0,-9.833328,562.06285,-9885.7229)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3506"
+       xlink:href="#linearGradient960"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="14.861265"
+       x2="28.083673"
+       y1="33.31625"
+       x1="28.083673"
+       gradientTransform="matrix(1.1074157,0,0,1.1074157,948.13689,177.85043)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3508"
+       xlink:href="#linearGradient5161"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="-1007.4872"
+       x2="-31.1875"
+       y1="-1055.4247"
+       x1="-31.1875"
+       gradientTransform="matrix(9.833328,0,0,-9.833328,562.06285,-9885.7229)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3530"
+       xlink:href="#linearGradient960"
+       inkscape:collect="always" />
+    <linearGradient
+       y2="14.861265"
+       x2="28.083673"
+       y1="33.31625"
+       x1="28.083673"
+       gradientTransform="matrix(10.889582,0,0,10.889582,-5.3497717,-5.3481869)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3534"
+       xlink:href="#linearGradient5161"
+       inkscape:collect="always" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Livello 1"
+     transform="translate(0,-540.36218)" />
+  <g
+     id="g2036"
+     transform="matrix(1.1,0,0,0.44444,95.081063,256.39254)">
+    <g
+       id="g3712"
+       style="opacity:0.4"
+       transform="matrix(1.0526,0,0,1.2857,-1.2632,-13.429)" />
+  </g>
+  <g
+     transform="translate(97.481063,231.28154)"
+     id="g3541" />
+  <g
+     transform="translate(97.481063,231.28154)"
+     id="g3536" />
+  <g
+     id="g4103"
+     transform="translate(-11.985071,-592.11719)">
+    <rect
+       ry="101.45834"
+       y="612.11719"
+       x="31.985071"
+       height="487"
+       width="487"
+       id="rect6187"
+       style="opacity:0.1;color:#000000;fill:url(#linearGradient4114-2-6);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0.07999998;color:#000000;fill:url(#linearGradient4112-2-6);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6191"
+       width="491"
+       height="491"
+       x="31.985071"
+       y="612.11719"
+       ry="102.29167" />
+    <rect
+       style="opacity:0.2;color:#000000;fill:url(#linearGradient4110-6-7);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect6183"
+       width="483"
+       height="483"
+       x="31.985071"
+       y="612.11719"
+       ry="100.62501" />
+    <rect
+       ry="99.791664"
+       y="612.11719"
+       x="31.985071"
+       height="479"
+       width="479"
+       id="rect6179"
+       style="opacity:0.25;color:#000000;fill:url(#linearGradient4116-6-3);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       style="opacity:0.25;color:#000000;fill:url(#linearGradient5342-3);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       id="rect5574"
+       width="475.5"
+       height="475.5"
+       x="31.985071"
+       y="612.11719"
+       ry="99.0625" />
+  </g>
+  <path
+     style="fill:#32342c;fill-opacity:0.99607843;stroke:none"
+     d="m 118.3437,19.999999 c -54.476663,0 -98.34375,43.867084 -98.34375,98.343751 l 0,23.0625 0,252.25 C 19.99995,448.13291 63.867037,492 118.3437,492 l 275.3125,0 c 54.47667,0 98.34375,-43.86709 98.34375,-98.34375 l 0,-252.25 0,-23.0625 c 0,-54.476667 -43.86708,-98.343751 -98.34375,-98.343751 l -275.3125,0 z"
+     id="rect2991-1"
+     inkscape:connector-curvature="0" />
+  <text
+     sodipodi:linespacing="125%"
+     id="text830"
+     y="372.05698"
+     x="77.364571"
+     style="font-size:393.33312988px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Impact;-inkscape-font-specification:Impact Bold"
+     xml:space="preserve"><tspan
+       y="372.05698"
+       x="77.364571"
+       id="tspan832"
+       sodipodi:role="line" /></text>
+  <g
+     id="g4076"
+     transform="translate(-605.51932,-353.96833)">
+    <g
+       transform="translate(-926.66758,684.38448)"
+       id="g4038" />
+  </g>
+  <g
+     id="g4076-9"
+     transform="translate(-605.51937,-353.96833)">
+    <g
+       transform="translate(-926.66758,684.38448)"
+       id="g4038-9">
+      <path
+         inkscape:connector-curvature="0"
+         style="opacity:0.2;color:#000000;fill:url(#linearGradient4084-8);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.50000000000000000;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 1650.4994,-310.41615 c -54.4767,0 -98.3125,43.83583 -98.3125,98.3125 l 0,275.343747 c 0,54.476673 43.8358,98.343753 98.3125,98.343753 l 2.9375,0 c -53.3225,0 -96.25,-42.9275 -96.25,-96.250003 l 0,-269.499997 c 0,-53.3225 42.9275,-96.25 96.25,-96.25 l 269.5001,0 c 53.3225,0 96.25,42.9275 96.25,96.25 l 0,269.499997 c 0,53.322503 -42.9275,96.250003 -96.25,96.250003 l 2.9062,0 c 54.4767,0 98.3438,-43.86708 98.3438,-98.343753 l 0,-275.343747 c 0,-54.47667 -43.8671,-98.3125 -98.3438,-98.3125 l -275.3438,0 z"
+         id="rect6809-2-3" />
+      <path
+         id="path3981-7"
+         d="m 1650.4994,161.58385 c -54.4767,0 -98.3125,-43.83583 -98.3125,-98.312503 l 0,-275.343747 c 0,-54.47667 43.8358,-98.34375 98.3125,-98.34375 l 2.9375,0 c -53.3225,0 -96.25,42.9275 -96.25,96.25 l 0,269.499997 c 0,53.322503 42.9275,96.250003 96.25,96.250003 l 269.5001,0 c 53.3225,0 96.25,-42.9275 96.25,-96.250003 l 0,-269.499997 c 0,-53.3225 -42.9275,-96.25 -96.25,-96.25 l 2.9062,0 c 54.4767,0 98.3438,43.86708 98.3438,98.34375 l 0,275.343747 c 0,54.476673 -43.8671,98.312503 -98.3438,98.312503 l -275.3438,0 z"
+         style="opacity:0.2;color:#000000;fill:url(#linearGradient4086-12);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.2035675px;line-height:110.00000238%;font-family:AgencyFB;-inkscape-font-specification:'AgencyFB Bold';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="80.999954"
+     y="67.037689"
+     id="text4194"
+     sodipodi:linespacing="110%"><tspan
+       sodipodi:role="line"
+       id="tspan4196"
+       x="80.999954"
+       y="67.037689"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10178375px;line-height:110.00000238%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;text-anchor:start;fill:#858470;fill-opacity:1">/* USE FLATWOKEN v. 1.0</tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="81.449654"
+       id="tspan4198"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10178375px;line-height:110.00000238%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;text-anchor:start;fill:#858470;fill-opacity:1"> * Author:  Alessandro Roncone</tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="95.861618"
+       id="tspan4200"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10178375px;line-height:110.00000238%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;text-anchor:start;fill:#858470;fill-opacity:1"> * email:   alecive87@gmail.com</tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="110.27358"
+       id="tspan4202"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10178375px;line-height:110.00000238%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;text-anchor:start;fill:#858470;fill-opacity:1">*/</tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="124.68554"
+       id="tspan4204"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10178375px;line-height:110.00000238%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;text-anchor:start" /><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="139.0975"
+       id="tspan4206"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10178375px;line-height:110.00000238%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;text-anchor:start"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ef4781;fill-opacity:1"
+         id="tspan4272">#include</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#bdc3c4;fill-opacity:1"
+         id="tspan4359"><tspan
+           id="tspan4404"
+           style="font-weight:normal;fill:#e3e786;fill-opacity:1"> &lt;string&gt;</tspan><tspan
+           style="font-weight:normal;fill:#ff0000;fill-opacity:0"
+           id="tspan4245">&gt;</tspan></tspan></tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="153.50946"
+       id="tspan4208"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10178375px;line-height:110.00000238%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;text-anchor:start" /><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="169.00888"
+       id="tspan4210"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10178375px;line-height:110.00000238%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;text-anchor:start"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ef4781;fill-opacity:1"
+         id="tspan4296">using</tspan><tspan
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="tspan4343"> namespace std;</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="184.73102"
+       id="tspan4212"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="200.45316"
+       id="tspan4214"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"><tspan
+   style="font-style:italic;font-weight:normal;fill:#87d8f1;fill-opacity:1"
+   id="tspan4320">class</tspan> Computer;</tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="216.17529"
+       id="tspan4216"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">std::vector&lt;Computer&gt; <tspan
+   style="font-weight:normal;fill:#96ec3b;fill-opacity:1"
+   id="tspan4348">findMyComputers</tspan>();</tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="231.89743"
+       id="tspan4218"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10178375px;line-height:110.00000238%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;text-anchor:start"><tspan
+         id="tspan4406"
+         style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#87d8f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">void</tspan><tspan
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="tspan4345"> <tspan
+   style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#96ec3b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+   id="tspan4376">useFlatWoken</tspan>(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ef4781;fill-opacity:1"
+         id="tspan4263">const</tspan><tspan
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="tspan4233"> string _when);</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="247.61958"
+       id="tspan4220"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="263.34171"
+       id="tspan4222"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"><tspan
+   style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#87d8f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+   id="tspan4394">int</tspan> <tspan
+   style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#96ec3b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+   id="tspan4418">main</tspan>(<tspan
+   style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#87d8f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+   id="tspan4458">int</tspan> argc, <tspan
+   style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#87d8f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+   id="tspan4460">char</tspan> * argv[])</tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="279.06384"
+       id="tspan4224"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">{</tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="294.78598"
+       id="tspan4226"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">    string when=<tspan
+   style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#e3e786;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+   id="tspan4416">&quot;Always&quot;</tspan>;</tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="310.50812"
+       id="tspan4228"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">    <tspan
+   style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#87d8f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+   id="tspan4398">useFlatWoken</tspan>(when);</tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="326.23026"
+       id="tspan4230"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10178375px;line-height:110.00000238%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;text-anchor:start"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ef4781;fill-opacity:1"
+         id="tspan4277">    return</tspan><tspan
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="tspan4235"> <tspan
+   style="fill:#c287ff;fill-opacity:1"
+   id="tspan4444">1</tspan>;</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="341.95239"
+       id="tspan4232"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">}</tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="357.67453"
+       id="tspan4234"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" /><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="373.3967"
+       id="tspan4236"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10178375px;line-height:110.00000238%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;text-anchor:start"><tspan
+         id="tspan4408"
+         style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#87d8f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">void</tspan><tspan
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="tspan4237"> <tspan
+   style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#96ec3b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+   id="tspan4420">useFlatWoken</tspan>(</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ef4781;fill-opacity:1"
+         id="tspan4303">const</tspan><tspan
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="tspan4239"> <tspan
+   style="color:#000000;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#87d8f1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+   id="tspan4462">string</tspan> _when)</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="389.11884"
+       id="tspan4238"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">{</tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="404.84097"
+       id="tspan4240"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10178375px;line-height:110.00000238%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;text-anchor:start"><tspan
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="tspan4241">    std::vector&lt;Computer&gt; myComputers=findMyComputers()</tspan><tspan
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="tspan4412">;</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="420.56311"
+       id="tspan4242"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10178375px;line-height:110.00000238%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;text-anchor:start"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#ef4781;fill-opacity:1"
+         id="tspan4317">    for</tspan><tspan
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="tspan4243"> (int i = <tspan
+   style="fill:#c287ff;fill-opacity:1"
+   id="tspan4430">0</tspan>; i &lt; myComputers; i++)</tspan></tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="436.28525"
+       id="tspan4244"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">    {</tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="452.00739"
+       id="tspan4246"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#bdc3c4;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">        myComputers(i).setIconTheme(<tspan
+   style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.57771206px;line-height:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#e3e786;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+   id="tspan4468">&quot;FlatWoken&quot;</tspan>);</tspan><tspan
+       sodipodi:role="line"
+       x="80.999954"
+       y="467.72952"
+       id="tspan4256"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.10178375px;line-height:110.00000238%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';text-align:start;text-anchor:start" /></text>
+  <g
+     id="g4316"
+     transform="translate(-5e-5,9.9999829e-5)">
+    <path
+       sodipodi:nodetypes="scccsccccscccsscccscccccccccccsccccccs"
+       inkscape:connector-curvature="0"
+       id="path4391"
+       d="m 170.9375,154.9375 c -9.75289,0 -17.47998,0.95957 -22.8125,2.71875 -5.33251,1.68347 -9.56949,4.29864 -12.9375,8.15625 -3.36792,3.86057 -5.55661,8.55804 -6.46875,14.3125 -0.84174,5.68366 -1.34375,14.67324 -1.34375,26.53125 0,15.576 -1.92226,25.44662 -5.78125,29.9375 -3.85909,4.41713 -9.38328,6.7417 -17.03125,6.8125 l 0,25.1875 22.125,20.96865 c 0.47639,4.98637 0.6875,12.63516 0.6875,22.9375 0,12.98294 1.32608,22.42474 4.0625,28.25 1.45372,3.09415 3.40546,5.72577 5.8125,7.90625 l 143.34375,143.34375 113.0625,0 C 448.13292,492 492,448.13291 492,393.65625 L 492,280.5625 376.4375,165.03125 c -2.4517,-2.71686 -5.49804,-4.82927 -9.15625,-6.34375 -6.10434,-2.59502 -14.99233,-3.75 -26.21875,-3.75 l -5.4375,0 0,25.1875 21.53125,20.875 c 0.0806,1.9689 0.16779,3.97399 0.25,6.34375 0.42086,12.06746 1.18922,20.35287 2.03125,24.84375 0.82583,4.33657 2.34716,8.30367 4.65625,12.03125 C 364.21519,244.4306 298.875,178.75 298.875,178.75 L 289,174.65625 279.46875,170.9375 275.75,175.34375 c -1.91445,2.46817 -6.15832,7.2172 -9.53125,10.5625 -5.11569,5.07301 -6.73991,6.125 -10.21875,6.125 -1.39803,0 -2.51355,-0.19228 -3.71875,-0.75 l -17.59375,-17.5 c -2.5161,-3.28219 -4.32536,-2.71651 -15.4375,2.25 -5.55091,2.478 -7.92185,3.99635 -7.5,5.09375 0.31588,0.81723 0.8757,5.70435 1.28125,11.125 L 176.375,154.9375 Z"
+       style="fill:#000000;fill-opacity:0.2745098" />
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       d="m 170.9251,154.9306 c -9.75289,0 -17.46753,0.96366 -22.80005,2.72284 -5.33251,1.68347 -9.5634,4.30897 -12.93141,8.16658 -3.36792,3.86057 -5.55347,8.53927 -6.46561,14.29373 -0.84174,5.68366 -1.36123,14.68607 -1.36123,26.54408 0,15.576 -1.92606,25.45554 -5.78505,29.94642 -3.85909,4.41713 -9.36703,6.73386 -17.015,6.80466 l 0,25.18217 c 7.78829,0.28517 12.84715,2.0768 15.65378,5.4457 2.80653,3.29712 4.80269,6.88923 5.78504,10.88943 0.98235,3.99921 1.36123,13.25041 1.36123,27.56282 0,12.98294 1.34716,22.42097 4.08358,28.24623 2.73642,5.82428 7.16732,10.0654 13.27175,12.58961 6.10433,2.59797 14.97655,3.74453 26.20297,3.74453 l 5.44481,0 0,-25.18217 c -8.56011,0 -13.94877,-0.84566 -16.33434,-2.38163 -2.38566,-1.47205 -4.13275,-3.51935 -4.76425,-6.46738 l -1.36112,-30.62688 c -0.49069,-9.89233 -2.22775,-17.53676 -5.10458,-22.79857 -2.80653,-5.2628 -7.36723,-9.8235 -13.61198,-13.61228 6.5955,-4.21063 11.22641,-8.71134 13.61198,-13.27204 2.45577,-4.62953 3.79242,-9.24038 4.42391,-14.29176 0.7021,-5.05335 1.2805,-16.17091 1.70146,-33.0095 0.14062,-6.10551 1.09809,-10.14603 3.06279,-12.25134 2.03471,-2.10532 8.20218,-3.0621 18.37613,-3.0621 l 0,-25.18315 -5.44481,0 z m 164.705,0 0,25.18315 c 8.77054,0 14.22941,0.4425 16.33433,1.70215 2.17504,1.26161 3.5223,3.00998 4.08359,4.76425 0.56148,1.75426 0.94007,8.61792 1.36123,20.75815 0.42086,12.06746 1.19976,20.34909 2.04179,24.83997 0.84173,4.42008 2.37858,8.46256 4.76415,12.25233 2.38566,3.78681 6.55696,7.64148 12.59108,11.56989 -5.68337,3.2981 -9.92478,7.14883 -12.59108,11.5699 -2.5961,4.42106 -4.19234,9.17056 -5.10448,14.29274 -0.84174,5.05236 -1.62083,16.74812 -2.04179,34.71066 -0.14062,6.24417 -1.15768,10.21683 -3.40302,12.25036 -2.17514,2.0355 -8.28291,3.06308 -18.0358,3.06308 l 0,25.18217 5.78504,0 c 9.75289,0 17.1272,-0.96366 22.45981,-2.72186 5.33252,-1.68347 9.56341,-4.30798 12.93132,-8.16658 3.36792,-3.86057 5.62368,-8.54025 6.46571,-14.29373 0.84173,-5.68366 1.36123,-14.61527 1.36123,-26.5431 0,-15.43636 1.92595,-25.45553 5.78504,-29.94642 3.85909,-4.48793 9.36704,-6.73386 17.015,-6.80663 l 0,-25.18217 c -7.64796,-0.28516 -12.84714,-1.94601 -15.65377,-5.10448 -2.73642,-3.22729 -4.66247,-6.68961 -5.78514,-10.54919 -1.05246,-3.8586 -1.36113,-13.36939 -1.36113,-28.24427 0,-12.98196 -1.34717,-22.42097 -4.08368,-28.24623 -2.73642,-5.82035 -7.16732,-10.06245 -13.27165,-12.58961 -6.10434,-2.59502 -14.97665,-3.74453 -26.20307,-3.74453 l -5.44471,0 z m -56.14949,15.99489 -3.74325,4.42401 c -1.91445,2.46817 -6.15547,7.2039 -9.5284,10.5492 -5.11569,5.07301 -6.73012,6.12419 -10.20896,6.12419 -3.47873,0 -5.22503,-1.07675 -10.88962,-6.46443 -3.7349,-3.5577 -8.04769,-8.35439 -9.5283,-10.54821 -3.12828,-4.63641 -3.95654,-4.51251 -16.33444,1.01972 -5.55091,2.478 -7.90845,4.0061 -7.4866,5.1035 0.33827,0.87516 0.95187,6.37789 1.36123,12.25036 0.58213,8.35046 0.39333,11.60824 -1.0209,14.97419 -2.30257,5.48109 -4.36157,6.18123 -21.09848,5.44373 l -13.27175,-0.6785 -3.40302,8.50681 c -1.93786,4.65018 -3.40292,8.96996 -3.40292,9.86971 0,0.90467 3.2209,4.3601 7.14627,7.48513 8.65028,6.88923 13.61198,13.56409 13.61198,18.03531 0,3.8173 -6.23394,11.12346 -15.31354,18.03727 -3.12906,2.3836 -5.44471,4.91667 -5.44471,5.78495 0,0.885 1.44048,5.50076 3.40292,10.20896 l 3.74335,8.50681 12.93142,-0.68833 c 21.39978,-1.14558 23.50342,1.08953 22.11938,22.46227 l -0.68047,11.91013 5.10448,2.38163 c 8.9974,4.58725 15.99411,6.65618 15.99411,4.76425 0,-1.6402 10.93485,-14.06953 14.97311,-17.01658 2.19725,-1.5989 5.14184,-2.72088 6.80604,-2.72088 4.14337,0 11.29987,5.22445 18.03589,13.61228 6.40593,7.97679 6.21968,8.11839 19.0567,2.38163 6.44034,-2.87625 7.35503,-3.85467 6.80604,-6.12518 -1.64217,-6.79188 -2.2538,-18.90753 -1.0209,-23.47904 2.13324,-7.91485 4.71725,-8.99061 21.09859,-8.17051 15.81661,0.7965 14.13118,1.84276 19.05679,-11.22868 l 2.72236,-7.48611 -8.5075,-7.14391 c -10.22607,-8.44978 -13.64443,-13.59065 -12.59109,-18.37948 0.70603,-3.2096 12.64133,-15.83657 18.71646,-19.73549 2.55628,-1.64216 2.60141,-2.02468 1.0209,-6.46639 -0.90762,-2.54979 -2.72904,-6.9974 -4.08359,-9.86873 l -2.38212,-5.10448 -14.97311,0 c -19.88692,0 -19.36536,0.72766 -19.39712,-19.39821 l 0,-15.31147 -9.86863,-4.08378 -9.5286,-3.73765 z m -24.16117,51.72625 c 7.27991,-0.118 9.79852,0.36384 15.31344,3.06308 12.1951,5.98162 18.99543,16.83171 19.05669,30.6259 0.11407,25.64729 -26.12951,42.04338 -49.00311,30.6259 -12.68578,-6.33168 -18.73829,-16.6252 -18.71646,-31.30538 0.01,-9.73008 3.45061,-17.33911 10.88963,-24.16245 7.43989,-6.82433 12.0238,-8.74478 22.45981,-8.84705 z"
+       id="path866"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
