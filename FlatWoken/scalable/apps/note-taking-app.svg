@@ -14,7 +14,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48+devel r"
    sodipodi:docname="note-taking-app.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
@@ -26,14 +26,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.19204874"
-     inkscape:cx="-881.23999"
-     inkscape:cy="238.76977"
+     inkscape:zoom="1.5286017"
+     inkscape:cx="256"
+     inkscape:cy="367.58566"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -1037,8 +1037,8 @@
          style="color:#000000;fill:#f6e486;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
       <path
          id="rect3082"
-         d="m 118.27558,19.99999 c -54.476667,0 -98.333327,43.85667 -98.333327,98.33333 l 0,23.08102 471.999997,0 0,-23.08102 c 0,-54.47666 -43.85666,-98.33333 -98.33333,-98.33333 l -275.33334,0 z"
-         style="color:#000000;fill:#5e4735;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         d="m 118.31779,19.99999 c -54.476664,0 -98.333324,43.85667 -98.333324,98.33333 l 0,23.08102 471.999994,0 0,-23.08102 c 0,-54.47666 -43.85666,-98.33333 -98.33333,-98.33333 l -275.33334,0 z"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#5e4735;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;enable-background:accumulate"
          inkscape:connector-curvature="0" />
     </g>
     <g
@@ -1094,5 +1094,16 @@
        transform="translate(1532.2384,-330.41615)"
        id="path3981"
        inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="g8598"
+     transform="matrix(0,-1,1,0,17.368105,246.85633)">
+    <rect
+       width="16"
+       height="472"
+       x="89.442329"
+       y="2.6318953"
+       id="rect3648-9-6"
+       style="opacity:1;fill:#000000;fill-opacity:0.15686275;stroke:none" />
   </g>
 </svg>
