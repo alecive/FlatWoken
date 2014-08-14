@@ -14,7 +14,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48+devel r"
    sodipodi:docname="chat-irc.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="82.394526"
+     inkscape:cx="-123.37355"
      inkscape:cy="202.25"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1375"
-     inkscape:window-height="876"
-     inkscape:window-x="1431"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:object-paths="false"
@@ -207,16 +207,6 @@
          style="stop-color:#b4e844;stop-opacity:1"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       gradientTransform="matrix(5.6190476,0,0,5.6190476,-533.6111,-14.492066)"
-       y2="5.9877172"
-       x2="48"
-       y1="90"
-       x1="48"
-       gradientUnits="userSpaceOnUse"
-       id="linearGradient3076"
-       xlink:href="#linearGradient3614"
-       inkscape:collect="always" />
     <linearGradient
        gradientTransform="matrix(5.6190476,0,0,5.6190476,-533.6111,-14.492066)"
        y2="5.9877172"
@@ -421,7 +411,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -501,7 +491,7 @@
        id="g4038" />
   </g>
   <path
-     style="color:#000000;fill:#000000;fill-opacity:0.23529412;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#000000;fill-opacity:0.15686275;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="m 265.625,127.5 c -83.05508,0 -150.40625,57.52566 -150.40625,128.5 0,0 -4.81696,28.34181 14.78125,58.96875 -9.09494,30.39956 -36.328593,36.00858 -33.84375,42.4375 0.250917,0.64918 0.867099,1.3148 1.75,1.96875 L 230.5,492 393.65625,492 C 448.13292,492 492,448.13291 492,393.65625 l 0,-109.0625 -111.1874,-111.1874 C 353.22875,145.34274 311.87318,127.5 265.625,127.5 z"
      id="path5393"
      inkscape:connector-curvature="0"
@@ -535,15 +525,6 @@
      d="m 265.61549,127.4896 c 83.05508,0 150.38452,57.53606 150.38452,128.5104 0,70.97433 -67.32944,128.5104 -150.38452,128.5104 C 97.599995,359.13334 115.23097,256 115.23097,256 c 0,-70.97434 67.32944,-128.5104 150.38452,-128.5104 z"
      id="path6303"
      inkscape:connector-curvature="0" />
-  <rect
-     width="472"
-     height="449.5238"
-     rx="33.714287"
-     ry="33.714287"
-     x="-499.89685"
-     y="19.222229"
-     id="rect2419"
-     style="fill:url(#linearGradient3076);fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <path
      d="m 270.51019,184.44229 -9.34631,37.48261 25.70233,0 9.44367,-37.48261 21.51602,0 -9.44367,37.48261 26.96799,0 0,20.73713 -32.12794,0 -6.71768,26.67594 27.6495,0 0,20.93185 -32.71209,0 -9.34631,37.28789 -21.51597,0 9.34631,-37.28789 -25.70238,0 -9.34631,37.28789 -21.71069,0 9.34631,-37.28789 -27.16275,0 0,-20.93185 31.93327,0 6.81499,-26.67594 -27.55214,0 0,-20.73713 32.90681,0 9.34631,-37.48261 21.71073,0 m 11.00136,58.21974 -25.70234,0 -6.81504,26.67594 25.70238,0 6.815,-26.67594"
      inkscape:connector-curvature="0"

@@ -14,7 +14,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48+devel r"
    sodipodi:docname="chat_B.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4413727"
-     inkscape:cx="294"
+     inkscape:cx="193.05456"
      inkscape:cy="202.25"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1375"
-     inkscape:window-height="876"
-     inkscape:window-x="1431"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:object-paths="false"
@@ -277,7 +277,7 @@
        id="g4038" />
   </g>
   <path
-     style="color:#000000;fill:#000000;fill-opacity:0.23529412;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="color:#000000;fill:#000000;fill-opacity:0.15686275;fill-rule:nonzero;stroke:none;stroke-width:30;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 246.375,127.5 C 163.31992,127.5 96,185.02566 96,256 c 0,31.76574 13.49596,60.82163 35.84375,83.25 L 284.5625,492 393.65625,492 C 448.13292,492 492,448.13291 492,393.65625 L 492,303.8125 361.59415,173.40665 C 334.00738,145.33661 292.6263,127.5 246.375,127.5 z"
      id="path6322"
      inkscape:connector-curvature="0"
@@ -299,45 +299,6 @@
          style="opacity:0.2;color:#000000;fill:url(#linearGradient4086-12);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          inkscape:connector-curvature="0" />
     </g>
-  </g>
-  <g
-     transform="matrix(0.4375,0,0,-0.4375,621.34166,158.48771)"
-     id="g12">
-    <path
-       id="path14"
-       style="fill:#7db6d8;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 640,320 C 640,143.27 496.73,0 320,0 143.27,0 0,143.27 0,320 0,496.73 143.27,640 320,640 496.73,640 640,496.73 640,320"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path16"
-       style="fill:#6594b2;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 320,80 c 0,0 -5.367,24.031 -12.254,60.559 C 203.027,146.281 120,224.312 120,320 c 0,99.41 89.543,180 200,180 110.457,0 200,-80.59 200,-180 C 520,252.055 478.137,192.941 416.391,162.305 370.453,110.441 320,80 320,80"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path18"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 490,352 C 490,202.371 320,100 320,100 c 0,0 -93.887,420 0,420 93.887,0 170,-75.215 170,-168"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path20"
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 520,340 c 0,-99.41 -89.543,-180 -200,-180 -110.457,0 -200,80.59 -200,180 0,99.41 89.543,180 200,180 110.457,0 200,-80.59 200,-180"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path22"
-       style="fill:#495672;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 340,340 c 0,11.047 -8.953,20 -20,20 -11.047,0 -20,-8.953 -20,-20 0,-11.047 8.953,-20 20,-20 11.047,0 20,8.953 20,20"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path24"
-       style="fill:#495672;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 420,340 c 0,11.047 -8.953,20 -20,20 -11.047,0 -20,-8.953 -20,-20 0,-11.047 8.953,-20 20,-20 11.047,0 20,8.953 20,20"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path26"
-       style="fill:#495672;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 260,340 c 0,11.047 -8.953,20 -20,20 -11.047,0 -20,-8.953 -20,-20 0,-11.047 8.953,-20 20,-20 11.047,0 20,8.953 20,20"
-       inkscape:connector-curvature="0" />
   </g>
   <path
      sodipodi:nodetypes="sscccsss"
