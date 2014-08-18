@@ -3,7 +3,7 @@ FlatWoken
 
 Official *FlatWoken* icon theme source repository (alpha/beta/testing) releases.
 
-The *FlatWoken* project is developed by **Alessandro Roncone** (aka *alecive*), and it is released under the CC BY-SA 4.0 License. It is is meant to be a complete set of icon themes for Linux **AND** Android. If you'd like to use and/or modify these icons for your own purposes, please consider the fact that the iconset is free to use *as long as* its use is **not** conveying any monetary income. If it does, we can arrange easily for a fair compensation. Regardless of the use, I'd like to know if and how my icons are used, and I'd like to receive some sort of credit for it! Nothing crazy, though: just a quick note on the bottom or your website with my email/website is sufficient :)
+The *FlatWoken* project is developed by **Alessandro Roncone** (aka *alecive*), and it is released under the CC BY-SA 4.0 License. It is is meant to be a complete set of icon themes for Linux **AND** Android. If you'd like to use and/or modify these icons for your own purposes, please consider the fact that the iconset is free to use *as long as* its use is **not** conveying any monetary income; if it does, we can arrange easily for a fair compensation. Regardless of the use, I'd like to know if and how my icons are used, and I'd like to receive some sort of credit for it! Nothing crazy, though: just a quick note on the bottom or your website with my email/website is sufficient :)
 
 Contact informations:
 
@@ -11,6 +11,8 @@ Contact informations:
 - e-mail     alecive87@gmail.com
 - deviantART http://alecive.deviantart.com/
 - AwOken/FlatWoken Google+ page https://plus.google.com/u/0/b/116957764483417291271/116957764483417291271/
+- FlatWoken Icon Theme Free (trial version) on the Play Store https://play.google.com/store/apps/details?id=com.alecive.flatwokenfree
+- FlatWoken Icon Theme (full version) on the Play Store https://play.google.com/store/apps/details?id=com.alecive.flatwoken
 
 For any icon request and/or bug, please use github.
 
@@ -82,4 +84,4 @@ If you're skilled enough and you're into the project so much that I don't even n
 
 ###### Contributors
 - José Morales https://plus.google.com/+Jos%C3%A9Morales87/posts made an extension pack composed by 35 icons, that has been already integrated in the iconset
-- Iohannes Quon Fabrum https://plus.google.com/109260276583018639821/posts created 24 more icons for KDE, that are in the process of being integrated in the official repository
+- Iohannes Quon Fabrum https://plus.google.com/109260276583018639821/posts created 24 more icons for KDE, that have been integrated in the main repository as well
