@@ -13,7 +13,7 @@
    inkscape:export-ydpi="100"
    inkscape:export-xdpi="100"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
-   sodipodi:docname="google-chrome.svg"
+   sodipodi:docname="google-chrome-beta.svg"
    inkscape:version="0.91pre2 r"
    version="1.1"
    id="svg2"
@@ -1058,7 +1058,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1210,7 +1210,7 @@
        cy="128"
        cx="128"
        d="m 169,128 c 0,22.64367 -18.35633,41 -41,41 -22.64367,0 -41,-18.35633 -41,-41 0,-22.64367 18.35633,-41 41,-41 22.64367,0 41,18.35633 41,41 z"
-       style="fill:#398dd5;fill-opacity:1"
+       style="fill:#404041;fill-opacity:1"
        sodipodi:cx="128"
        sodipodi:cy="128"
        sodipodi:rx="41"
