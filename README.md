@@ -1,6 +1,8 @@
 FlatWoken
 =========
 
+![FlatWoken_500icons](https://cloud.githubusercontent.com/assets/4378663/4010483/e8a7f18c-29f5-11e4-869c-e0f314965049.jpg)
+
 Official *FlatWoken* icon theme source repository (alpha/beta/testing) releases.
 
 The *FlatWoken* project is developed by **Alessandro Roncone** (aka *alecive*), and it is released under the CC BY-SA 4.0 License. It is is meant to be a complete set of icon themes for Linux **AND** Android. If you'd like to use and/or modify these icons for your own purposes, please consider the fact that the iconset is free to use *as long as* its use is **not** conveying any monetary income; if it does, we can arrange easily for a fair compensation. Regardless of the use, I'd like to know if and how my icons are used, and I'd like to receive some sort of credit for it! Nothing crazy, though: just a quick note on the bottom or your website with my email/website is sufficient :)
