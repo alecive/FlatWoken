@@ -13,8 +13,8 @@
    height="22"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="indicator-messages.svg">
+   inkscape:version="0.91pre2 r"
+   sodipodi:docname="steam.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,16 +25,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="17.824154"
-     inkscape:cx="3.5654409"
+     inkscape:cx="-4.5976394"
      inkscape:cy="9.19895"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1044"
-     inkscape:window-height="700"
-     inkscape:window-x="88"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
      inkscape:window-y="24"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -57,6 +57,6 @@
        inkscape:connector-curvature="0"
        id="rect3130"
        d="m 1.5,1043.8307 5.0084,2.0127 c 0.297844,1.369 1.5186035,2.3991 2.974792,2.3991 1.577323,0 2.878699,-1.2091 3.029417,-2.7479 l 3.907559,-2.8571 c 2.25226,0 4.079832,-1.8241 4.079832,-4.0757 0,-2.2529 -1.827411,-4.0798 -4.079832,-4.0798 -2.2401,0 -4.059483,1.8066 -4.079832,4.042 l -2.5420195,3.6429 c -0.1035595,-0.011 -0.20881,-0.017 -0.3151245,-0.017 -0.5679385,0 -1.098694,0.1562 -1.554618,0.4285 L 1.5,1039.9944 z m 14.920168,-8.0041 c 1.509084,0 2.735297,1.2261 2.735297,2.7352 0,1.5092 -1.226213,2.7312 -2.735297,2.7312 -1.509085,0 -2.735297,-1.222 -2.735297,-2.7312 0,-1.5091 1.226212,-2.7352 2.735297,-2.7352 z m 0.01263,0.5378 c -1.206044,0 -2.184877,0.9787 -2.184877,2.1848 0,1.2061 0.978833,2.1849 2.184877,2.1849 1.206053,0 2.184876,-0.9788 2.184876,-2.1849 0,-1.2061 -0.978823,-2.1848 -2.184876,-2.1848 z m -6.9495825,6.5924 c 1.2414885,0 2.2395015,0.998 2.2395015,2.2395 -10e-6,1.2415 -0.998013,2.2394 -2.2395015,2.2394 -0.8635405,0 -1.609167,-0.4816 -1.9831915,-1.1934 0.3682865,0.1486 0.7372,0.2958 1.10504,0.4455 0.9128075,0.3667 1.952411,-0.074 2.31933,-0.9874 0.366918,-0.9129 -0.07866,-1.9484 -0.991591,-2.3152 l -0.9327765,-0.3739 c 0.1554105,-0.034 0.317281,-0.054 0.483189,-0.054 z"
-       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.4000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.4000001;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.9" />
   </g>
 </svg>

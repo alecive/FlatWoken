@@ -11,10 +11,10 @@
    viewBox="0 0 22 22"
    id="svg3007"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91pre2 r"
    width="100%"
    height="100%"
-   sodipodi:docname="folder-saved-search-symbolic.svg">
+   sodipodi:docname="folder-music-symbolic.svg">
   <metadata
      id="metadata3037">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -95,12 +95,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
      id="namedview3033"
      showgrid="false"
      inkscape:zoom="12.001175"
-     inkscape:cx="9.9394437"
+     inkscape:cx="-2.1843692"
      inkscape:cy="11"
      inkscape:window-x="65"
      inkscape:window-y="24"
@@ -110,5 +110,5 @@
      d="m 18.33748,1.9999994 -9.2153699,2.14343 c -0.69225,0.16692 -1.24955,0.83089 -1.24955,1.47581 l 0,10.2252196 c -0.70195,-0.33076 -1.60348,-0.4645 -2.53813,-0.24597 -1.68658,0.39434 -2.74347,1.66881 -2.38193,2.84619 0.36153,1.17739 2.02299,1.83502 3.70958,1.44067 1.34555,-0.3146 2.27305,-1.20476 2.42098,-2.14343 l 0.039,-9.6630096 8.7467899,-2.10829 0,7.6249896 c -0.70196,-0.33075 -1.60349,-0.4645 -2.53814,-0.24597 -1.68658,0.39435 -2.74347,1.66882 -2.38194,2.84619 0.36154,1.17739 2.023,1.83503 3.70958,1.44067 1.34555,-0.3146 2.27307,-1.20475 2.42099,-2.14343 l 0.039,-12.5794796 c 0,-0.48368 -0.33218,-0.84555 -0.78096,-0.91359 z"
      inkscape:connector-curvature="0"
      id="rect2996"
-     style="color:#bebebe;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#bebebe;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:0.9" />
 </svg>
