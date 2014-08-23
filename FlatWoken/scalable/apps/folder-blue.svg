@@ -14,7 +14,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48+devel r"
+   inkscape:version="0.91pre2 r"
    sodipodi:docname="folder-blue.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
@@ -27,7 +27,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49841102"
-     inkscape:cx="256"
+     inkscape:cx="-35.927735"
      inkscape:cy="256"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
@@ -160,17 +160,6 @@
          id="stop4050-73" />
     </linearGradient>
     <linearGradient
-       id="linearGradient3874">
-      <stop
-         id="stop3876"
-         style="stop-color:#ffffff;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3878"
-         style="stop-color:#ffffff;stop-opacity:0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4419"
        id="linearGradient3231"
@@ -231,49 +220,6 @@
          style="stop-color:#ffffff;stop-opacity:0"
          offset="1" />
     </linearGradient>
-    <linearGradient
-       x1="48"
-       y1="78"
-       x2="48"
-       y2="5.9877172"
-       id="linearGradient3706"
-       xlink:href="#linearGradient3187"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(0,8)" />
-    <linearGradient
-       id="linearGradient3187">
-      <stop
-         id="stop3189"
-         style="stop-color:#589dbe;stop-opacity:1"
-         offset="0" />
-      <stop
-         id="stop3191"
-         style="stop-color:#83b0cc;stop-opacity:1"
-         offset="1" />
-    </linearGradient>
-    <clipPath
-       id="clipPath3860-1">
-      <rect
-         width="84"
-         height="72"
-         rx="6"
-         ry="6"
-         x="6"
-         y="18"
-         id="rect3862-7"
-         style="fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    </clipPath>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       x="-0.16558799"
-       y="-0.19715989"
-       width="1.331176"
-       height="1.3943198"
-       id="filter3870-7">
-      <feGaussianBlur
-         id="feGaussianBlur3872-0"
-         stdDeviation="5.1703125" />
-    </filter>
   </defs>
   <metadata
      id="metadata7">
@@ -283,7 +229,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
