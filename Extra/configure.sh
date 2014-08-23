@@ -98,6 +98,7 @@ while getopts "hp:r:u" opt; do
                 usage
                 exit 1
             else
+                restore_panel_icons
                 panel_icons $TARGET_SUBKEY
             fi            
           
