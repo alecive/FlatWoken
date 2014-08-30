@@ -40,11 +40,12 @@ OPTIONS:
 
 ******************************************************************************************
 EXAMPLE USAGE:
-./customization -p \#646464 -> the panel_icons option requires a HEX color to use
-./customization -r p        -> the restore can be called for any of the customizations
-                                above (for now, only the p option is present)..
-./customization -r all      -> ..or it can be triggered for restore everything
-./customization -u          -> the update option does not need any argument
+./configure.sh -p \#646464 -> the panel_icons option requires a HEX color to use
+./configure.sh -p \#DF253F -> WARNING: the letters in the HEX code must be capital letters!
+./configure.sh -r p        -> the restore can be called for any of the customizations
+                              above (for now, only the p option is present)..
+./configure.sh -r all      -> ..or it can be triggered for restore everything
+./configure.sh -u          -> the update option does not need any argument
 
 ******************************************************************************************
 EOF
