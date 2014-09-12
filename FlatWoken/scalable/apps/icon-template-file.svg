@@ -14,7 +14,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91pre2 r"
    sodipodi:docname="icon-template-file.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.6026384"
-     inkscape:cx="-35.190767"
+     inkscape:cx="814.4066"
      inkscape:cy="232.51603"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
+     inkscape:window-width="1375"
+     inkscape:window-height="876"
+     inkscape:window-x="1985"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:object-paths="false"
@@ -308,7 +308,7 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      x="584.21265"
      y="38.652325"
      id="text3038"
@@ -317,24 +317,24 @@
        id="tspan3040"
        x="584.21265"
        y="38.652325"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">Color guidelines for the Long Shadows (R-G-B-A):</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'">Color guidelines for the Long Shadows (R-G-B-A):</tspan><tspan
        sodipodi:role="line"
        x="584.21265"
        y="68.652328"
        id="tspan3042"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic">- 0-0-0-40 for an icon with a white/very clear background</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'">- 0-0-0-30 for an icon with a white/very clear background</tspan><tspan
        sodipodi:role="line"
        x="584.21265"
        y="98.652328"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
-       id="tspan3044">- 0-0-0-60 for an icon with a colored background</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       id="tspan3044">- 0-0-0-40 for an icon with a colored background</tspan><tspan
        sodipodi:role="line"
        x="584.21265"
        y="128.65233"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
-       id="tspan3046">- 0-0-0-80 for an icon with a black/very dark background</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       id="tspan3046">- 0-0-0-60 for an icon with a black/very dark background</tspan></text>
   <path
-     style="fill:#000000;fill-opacity:0.15686275;fill-rule:nonzero;stroke:none"
+     style="fill:#000000;fill-opacity:0.11764706;fill-rule:nonzero;stroke:none"
      d="m 355.25,20 0,102.5625 c 0,9.77909 4.10646,18.58192 10.6875,24.8125 L 492,273.46875 492,156.75 423.625,88.375 z"
      id="path6657"
      inkscape:connector-curvature="0"

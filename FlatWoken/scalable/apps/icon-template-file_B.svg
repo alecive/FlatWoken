@@ -14,8 +14,8 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="icon-template-file.svg"
+   inkscape:version="0.91pre2 r"
+   sodipodi:docname="icon-template-file_B.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.59667969"
-     inkscape:cx="231.00889"
+     inkscape:cx="284.639"
      inkscape:cy="256"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     inkscape:window-x="65"
+     inkscape:window-width="1375"
+     inkscape:window-height="876"
+     inkscape:window-x="1985"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:object-paths="false"
@@ -221,7 +221,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -300,7 +300,7 @@
     </g>
   </g>
   <path
-     style="fill:#000000;fill-opacity:0.15686275;stroke:none"
+     style="fill:#000000;fill-opacity:0.11764706;stroke:none"
      d="m 355.25,20 0,136.75 L 492,292.5625 492,156.75 C 492,156.75 355.25247,19.99999 355.25,20 z"
      id="path5008"
      inkscape:connector-curvature="0"
@@ -323,28 +323,28 @@
      id="text3038"
      y="38.652325"
      x="584.21265"
-     style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Liberation Mono;-inkscape-font-specification:Liberation Mono"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
      xml:space="preserve"><tspan
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
        y="38.652325"
        x="584.21265"
        id="tspan3040"
        sodipodi:role="line">Color guidelines for the Long Shadows (R-G-B-A):</tspan><tspan
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
        id="tspan3042"
        y="68.652328"
        x="584.21265"
-       sodipodi:role="line">- 0-0-0-40 for an icon with a white/very clear background</tspan><tspan
+       sodipodi:role="line">- 0-0-0-30 for an icon with a white/very clear background</tspan><tspan
        id="tspan3044"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
        y="98.652328"
        x="584.21265"
-       sodipodi:role="line">- 0-0-0-60 for an icon with a colored background</tspan><tspan
+       sodipodi:role="line">- 0-0-0-40 for an icon with a colored background</tspan><tspan
        id="tspan3046"
-       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Gentium Book Basic;-inkscape-font-specification:Gentium Book Basic"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
        y="128.65233"
        x="584.21265"
-       sodipodi:role="line">- 0-0-0-80 for an icon with a black/very dark background</tspan></text>
+       sodipodi:role="line">- 0-0-0-60 for an icon with a black/very dark background</tspan></text>
   <path
      inkscape:connector-curvature="0"
      d="m 355.25323,19.99999 0,102.555 c 0,18.88151 15.30349,34.185 34.185,34.185 l 102.555,0 -136.74,-136.74"
