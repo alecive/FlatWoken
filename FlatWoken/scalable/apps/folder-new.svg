@@ -14,8 +14,8 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="folder-downloads.svg"
+   inkscape:version="0.91pre2 r"
+   sodipodi:docname="folder-new.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
    inkscape:export-ydpi="100">
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.41741338"
-     inkscape:cx="368.49538"
+     inkscape:cx="19.920066"
      inkscape:cy="93.526767"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1375"
-     inkscape:window-height="876"
-     inkscape:window-x="1431"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:object-paths="false"
@@ -789,7 +789,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -878,7 +878,7 @@
      d="M 67.0625 76.65625 C 42.85934 76.65625 20 95.7349 20 119.75 L 20 235.625 L 20 256.5625 L 20 352.75 L 20 393.65625 C 20 448.13291 63.867087 492 118.34375 492 L 393.65625 492 C 448.13292 492 492 448.13291 492 393.65625 L 492 352.75 L 492 256.5625 L 492 235.625 L 492 151.4375 C 492 127.42239 472.1407 108.34375 444.9375 108.34375 L 209.21875 108.34375 C 190.60301 89.019876 189.11124 79.81667 170.03125 76.65625 L 67.0625 76.65625 z "
      style="color:#000000;fill:url(#linearGradient3136);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
-     style="opacity:0.9;color:#000000;fill:#000000;fill-opacity:0.23529412;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     style="opacity:0.9;color:#000000;fill:#000000;fill-opacity:0.15686275;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
      d="M 256 195.96875 C 236.89202 195.96875 236.62755 195.99315 234.625 197.0625 C 232.68938 198.09607 230.77812 200.17085 229.84375 202.25 C 229.60498 202.78131 229.28921 218.87234 229.15625 238 L 228.9375 272.78125 L 227.78125 274.625 C 227.15015 275.63912 225.76525 277.03731 224.6875 277.75 L 222.71875 279.0625 L 187.625 279.28125 L 152.53125 279.53125 L 150.65625 280.6875 C 149.62674 281.32682 148.17181 282.85658 147.40625 284.0625 L 146 286.25 L 146 305.71875 C 146 323.92364 146.078 325.32583 146.9375 327 C 147.76371 328.60944 148.86626 329.83937 150.5625 331.0625 L 311.5 492 L 393.65625 492 C 442.50192 492 482.81232 456.71669 490.625 410.15625 L 277.375 197.0625 C 275.37246 195.99316 275.10799 195.96875 256 195.96875 z "
      id="path3116" />
   <path
