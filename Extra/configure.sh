@@ -120,7 +120,7 @@ folder_colors() {
             change_folders_color 454545 333333 454545 3d3d3d 303030 23529412
         ;;
         lightgray)
-            change_folders_color f5f5f5 c8c8c8 f0f0f0 bebebe b4b4b4 11764706
+            change_folders_color f0f0f0 c8c8c8 ebebeb bebebe b4b4b4 11764706
         ;;
         blue)
             change_folders_color 95bbd3 589dbe 82b9d8 589bbe 3d809f 15686275
