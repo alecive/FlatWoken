@@ -24,8 +24,15 @@ PanelSizes=16,22,32,48,64,128,256
 DialogDefault=32
 DialogSizes=16,22,32,48,64,128,256
 
-Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/status,scalable/stock,22x22/status,22x22/apps,22x22/categories,22x22/devices,22x22/emblems,22x22/places,22x22/actions,22x22/mimetypes,22x22/stock
+Directories=scalable/actions,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/mimetypes,scalable/places,scalable/status,scalable/stock,22x22/status,22x22/apps,22x22/categories,22x22/devices,22x22/emblems,22x22/places,22x22/animations,22x22/actions,22x22/mimetypes,22x22/stock
 [22x22/actions]
+Context=Actions
+Size=22
+MinSize=8
+MaxSize=22
+Type=Scalable
+
+[22x22/animations]
 Context=Actions
 Size=22
 MinSize=8
