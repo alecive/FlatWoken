@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -95,20 +95,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1375"
-     inkscape:window-height="876"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
      id="namedview3033"
      showgrid="true"
      inkscape:zoom="9.1534071"
-     inkscape:cx="1.55188"
+     inkscape:cx="-16.692693"
      inkscape:cy="6.8867502"
-     inkscape:window-x="1985"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3007" />
   <path
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.9;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-     d="M 4.064236,3 C 3.462251,3 3.000001,3.460514 3,4.0625 l 0,13.875 C 3.000002,18.539711 3.462092,19 4.064236,19 L 17.9375,19 C 18.539486,19 19,18.539485 19,17.9375 L 19,4.0625 C 19.000001,3.460514 18.539486,3 17.9375,3 L 4.064236,3 Z"
+     d="M 4.9312065,4 C 4.4044696,4 4.0000009,4.4029497 4,4.9296875 L 4,17.070312 C 4.0000017,17.597247 4.4043305,18 4.9312065,18 L 17.070312,18 C 17.59705,18 18,17.597049 18,17.070312 L 18,4.9296875 C 18.000001,4.4029497 17.59705,4 17.070312,4 L 4.9312065,4 Z"
      id="path4281"
      inkscape:connector-curvature="0" />
 </svg>
