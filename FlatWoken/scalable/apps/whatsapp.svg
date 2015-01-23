@@ -14,7 +14,7 @@
    height="512"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91+devel r"
    sodipodi:docname="whatsapp.svg"
    inkscape:export-filename="/home/alecive/Scrivania/firefoxTest1.png"
    inkscape:export-xdpi="100"
@@ -26,17 +26,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.86825227"
-     inkscape:cx="188.99935"
+     inkscape:zoom="0.43412614"
+     inkscape:cx="21.421326"
      inkscape:cy="361.23227"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
-     inkscape:window-width="1305"
-     inkscape:window-height="744"
-     inkscape:window-x="61"
+     inkscape:window-width="1005"
+     inkscape:window-height="1027"
+     inkscape:window-x="644"
      inkscape:window-y="24"
-     inkscape:window-maximized="1"
+     inkscape:window-maximized="0"
      inkscape:object-paths="false"
      inkscape:snap-intersection-paths="false"
      inkscape:object-nodes="true"
@@ -44,6 +44,22 @@
      inkscape:snap-nodes="true" />
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient5683"
+       gradientUnits="userSpaceOnUse"
+       x1="200.0508"
+       y1="185.0742"
+       x2="200.0508"
+       y2="217.4595">
+      <stop
+         offset="0"
+         style="stop-color:#60d36a;stop-opacity:1"
+         id="stop5685" />
+      <stop
+         offset="1"
+         style="stop-color:#27b43e;stop-opacity:1"
+         id="stop5689" />
+    </linearGradient>
     <linearGradient
        y2="217.4595"
        x2="200.0508"
@@ -969,7 +985,7 @@
        gradientTransform="matrix(1.0925926,0,0,1.0925926,-550.6032,-19.547485)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient8322"
-       xlink:href="#linearGradient3879"
+       xlink:href="#linearGradient5683"
        inkscape:collect="always" />
   </defs>
   <metadata
@@ -1075,7 +1091,7 @@
     </g>
   </g>
   <path
-     style="fill:#000000;fill-opacity:0.23529412"
+     style="fill:#000000;fill-opacity:0.11764706"
      d="m 258.75,104.8125 c -81.34653,0 -147.3125,65.93471 -147.3125,147.28125 0,27.82434 7.74443,53.86176 21.15625,76.0625 L 106,407.1875 191.49995,492 393.6562,492 C 448.13292,492 492,448.13291 492,393.65625 l 0,-116.5625 -131.65395,-131.5928 C 333.91861,120.30692 298.15032,104.8125 258.75,104.8125 z m 0,23.46875 c 68.27705,0 123.78125,55.53281 123.78125,123.8125 0,68.27706 -55.50288,123.84375 -123.78125,123.84375 -25.15408,0 -48.60206,-7.56614 -68.15625,-20.5 l -47.5625,15.25 L 158.5,324.71875 c -14.82331,-20.414 -23.625,-45.52353 -23.625,-72.625 0,-68.27969 55.594,-123.8125 123.875,-123.8125 z"
      id="path5823"
      inkscape:connector-curvature="0"
