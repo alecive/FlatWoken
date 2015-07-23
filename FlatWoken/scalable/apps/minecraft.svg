@@ -26,11 +26,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.55964023"
-     inkscape:cx="168.13547"
-     inkscape:cy="325.45304"
+     inkscape:zoom="1.1192805"
+     inkscape:cx="158.9194"
+     inkscape:cy="254.7781"
      inkscape:document-units="px"
-     inkscape:current-layer="svg2"
+     inkscape:current-layer="g4201"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
@@ -59,6 +59,18 @@
   </sodipodi:namedview>
   <defs
      id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4399">
+      <stop
+         style="stop-color:#a7ef73;stop-opacity:1"
+         offset="0"
+         id="stop4401" />
+      <stop
+         style="stop-color:#438812;stop-opacity:1"
+         offset="1"
+         id="stop4403" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient4256">
@@ -227,6 +239,15 @@
        x2="228.68178"
        y2="492.08768"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4399"
+       id="linearGradient4405"
+       x1="-110.34451"
+       y1="211.79703"
+       x2="-110.34451"
+       y2="509.21317"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
      id="metadata7">
@@ -348,7 +369,7 @@
        height="300"
        width="300"
        id="rect4179"
-       style="opacity:1;fill:#6eb33d;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0"
+       style="opacity:1;fill:url(#linearGradient4405);fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0"
        rx="31.214298"
        ry="31.214298" />
     <path
