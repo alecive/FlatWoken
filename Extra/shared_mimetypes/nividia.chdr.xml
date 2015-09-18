@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+   <mime-type type="text/vnd.nvidia.cuda.chdr">
+     <sub-class-of type="text/x-chdr"/>
+     <comment>Nvidia Cuda C header file</comment>
+     <glob pattern="*.cuh"/>
+   </mime-type>
+</mime-info>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+   <mime-type type="text/x-mediawiki">
+	  <comment>MediaWiki document</comment>
+	  <comment xml:lang="en_AU">MediaWiki document</comment>
+	  <comment xml:lang="en_GB">MediaWiki document</comment>
+	  <comment xml:lang="fr">document MediaWiki</comment>
+	  <sub-class-of type="text/plain"/>
+	  <glob pattern="*.mediawiki"/>
+   </mime-type>
+</mime-info>
