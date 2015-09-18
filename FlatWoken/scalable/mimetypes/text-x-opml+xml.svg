@@ -649,8 +649,8 @@
        color-interpolation-filters="sRGB"
        id="filter3174">
       <feGaussianBlur
-         id="feGaussianBlur3176"
-         stdDeviation="1.71" />
+         stdDeviation="1.71"
+         id="feGaussianBlur3176" />
     </filter>
     <linearGradient
        id="linearGradient10386">
@@ -974,20 +974,20 @@
          style="stop-color:#27509d;stop-opacity:1"
          offset="1" />
       <a:midPointStop
-         style="stop-color:#264FA1"
-         offset="0" />
+         offset="0"
+         style="stop-color:#264FA1" />
       <a:midPointStop
-         style="stop-color:#264FA1"
-         offset="0.6" />
+         offset="0.6"
+         style="stop-color:#264FA1" />
       <a:midPointStop
-         style="stop-color:#2492A1"
-         offset="0.5" />
+         offset="0.5"
+         style="stop-color:#2492A1" />
       <a:midPointStop
-         style="stop-color:#2492A1"
-         offset="0.6" />
+         offset="0.6"
+         style="stop-color:#2492A1" />
       <a:midPointStop
-         style="stop-color:#27509D"
-         offset="1" />
+         offset="1"
+         style="stop-color:#27509D" />
     </linearGradient>
     <linearGradient
        x1="149.5"
@@ -1025,28 +1025,28 @@
          style="stop-color:#27509d;stop-opacity:1"
          offset="1" />
       <a:midPointStop
-         style="stop-color:#264FA1"
-         offset="0" />
+         offset="0"
+         style="stop-color:#264FA1" />
       <a:midPointStop
-         style="stop-color:#264FA1"
-         offset="0.6" />
+         offset="0.6"
+         style="stop-color:#264FA1" />
       <a:midPointStop
-         style="stop-color:#2492A1"
-         offset="0.5" />
+         offset="0.5"
+         style="stop-color:#2492A1" />
       <a:midPointStop
-         style="stop-color:#2492A1"
-         offset="0.6" />
+         offset="0.6"
+         style="stop-color:#2492A1" />
       <a:midPointStop
-         style="stop-color:#27509D"
-         offset="1" />
+         offset="1"
+         style="stop-color:#27509D" />
     </linearGradient>
     <foreignObject
-       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
-       x="0"
-       y="0"
-       width="1"
+       id="foreignObject8"
        height="1"
-       id="foreignObject8">
+       width="1"
+       y="0"
+       x="0"
+       requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/">
       <i:pgfRef
          xlink:href="#adobe_illustrator_pgf" />
     </foreignObject>
@@ -1118,20 +1118,20 @@
          style="stop-color:#27509d;stop-opacity:1"
          offset="1" />
       <a:midPointStop
-         offset="0"
-         style="stop-color:#264FA1" />
+         style="stop-color:#264FA1"
+         offset="0" />
       <a:midPointStop
-         offset="0.6"
-         style="stop-color:#264FA1" />
+         style="stop-color:#264FA1"
+         offset="0.6" />
       <a:midPointStop
-         offset="0.5"
-         style="stop-color:#2492A1" />
+         style="stop-color:#2492A1"
+         offset="0.5" />
       <a:midPointStop
-         offset="0.6"
-         style="stop-color:#2492A1" />
+         style="stop-color:#2492A1"
+         offset="0.6" />
       <a:midPointStop
-         offset="1"
-         style="stop-color:#27509D" />
+         style="stop-color:#27509D"
+         offset="1" />
     </linearGradient>
     <linearGradient
        x1="149.5"
@@ -1169,20 +1169,20 @@
          style="stop-color:#27509d;stop-opacity:1"
          offset="1" />
       <a:midPointStop
-         offset="0"
-         style="stop-color:#264FA1" />
+         style="stop-color:#264FA1"
+         offset="0" />
       <a:midPointStop
-         offset="0.6"
-         style="stop-color:#264FA1" />
+         style="stop-color:#264FA1"
+         offset="0.6" />
       <a:midPointStop
-         offset="0.5"
-         style="stop-color:#2492A1" />
+         style="stop-color:#2492A1"
+         offset="0.5" />
       <a:midPointStop
-         offset="0.6"
-         style="stop-color:#2492A1" />
+         style="stop-color:#2492A1"
+         offset="0.6" />
       <a:midPointStop
-         offset="1"
-         style="stop-color:#27509D" />
+         style="stop-color:#27509D"
+         offset="1" />
     </linearGradient>
     <linearGradient
        x1="149.5"
@@ -1199,6 +1199,15 @@
        x2="11.9932"
        y2="11.9942"
        id="linearGradient4125"
+       xlink:href="#gradient_1_"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.1793693,0,0,2.0392796,-305.34676,159.48502)" />
+    <linearGradient
+       x1="116.0049"
+       y1="116.0059"
+       x2="11.9932"
+       y2="11.9942"
+       id="linearGradient3278"
        xlink:href="#gradient_1_"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(2.1793693,0,0,2.0392796,116.52034,174.05861)" />
@@ -1303,15 +1312,11 @@
   <path
      d="m 395.47961,379.42426 c 0,30.73398 -26.62971,55.66214 -59.46845,55.66214 l -160.02455,0 c -32.84309,0 -59.46627,-24.92816 -59.46627,-55.66214 l 0,-149.70555 c 0,-30.74214 26.62318,-55.6601 59.46627,-55.6601 l 160.02455,0 c 32.83874,0 59.46845,24.91796 59.46845,55.6601 l 0,149.70555 z"
      id="stroke_1_"
-     style="fill:#244fa1" />
-  <path
-     d="m 390.49539,376.74873 c 0,29.64297 -25.67515,53.67588 -57.34574,53.67588 l -154.30807,0 c -31.66405,0 -57.34138,-24.03291 -57.34138,-53.67588 l 0,-144.35857 c 0,-29.645 25.67515,-53.6718 57.34138,-53.6718 l 154.30807,0 c 31.66841,0 57.34574,24.0268 57.34574,53.6718 l 0,144.35857 0,0 z"
-     id="inner_stroke_1_"
-     style="fill:#2492a1" />
+     style="color:#000000;fill:#2492a1;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
      d="m 385.51553,374.08135 c 0,28.53972 -24.73148,51.6835 -55.21214,51.6835 l -148.60029,0 c -30.4981,0 -55.21868,-23.14378 -55.21868,-51.6835 l 0,-139.01361 c 0,-28.54992 24.72058,-51.68758 55.21868,-51.68758 l 148.60029,0 c 30.48066,0 55.21214,23.13766 55.21214,51.68758 l 0,139.01361 z"
      id="gradient_2_"
-     style="fill:url(#linearGradient4125)" />
+     style="fill:url(#linearGradient3278)" />
   <path
      d="m 281.56834,306.79736 c 0,12.87397 -11.1562,23.30692 -24.90802,23.30692 -13.75182,0 -24.90583,-10.43295 -24.90583,-23.30692 0,-12.87397 11.15401,-23.30693 24.90583,-23.30693 13.75182,0 24.90802,10.43296 24.90802,23.30693 z"
      id="circle_3_"

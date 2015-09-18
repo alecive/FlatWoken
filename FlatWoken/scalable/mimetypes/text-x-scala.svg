@@ -636,8 +636,8 @@
        color-interpolation-filters="sRGB"
        id="filter3174">
       <feGaussianBlur
-         id="feGaussianBlur3176"
-         stdDeviation="1.71" />
+         stdDeviation="1.71"
+         id="feGaussianBlur3176" />
     </filter>
     <linearGradient
        id="linearGradient10386">
@@ -1028,5 +1028,5 @@
   <path
      d="m 340.71345,243.46776 c -43.92409,14.49879 -126.3843,28.74228 -191.1058,34.11679 33.19328,1.76287 76.80176,6.04634 116.08106,12.06039 53.49589,-8.18824 98.96312,-19.76322 98.96312,-33.03027 0,-4.09147 -9.16533,-8.60688 -23.93838,-13.14691 z m -0.26746,89.3121 c -43.97853,14.47421 -126.22452,28.85986 -190.83834,34.22543 33.07893,1.7568 76.50617,5.9708 115.67986,11.95174 53.66292,-8.19174 99.36432,-19.73137 99.36432,-33.03026 0,-4.11498 -9.28182,-8.58039 -24.20584,-13.14691 z"
      id="path3857"
-     style="fill:url(#linearGradient10625);fill-opacity:1;fill-rule:evenodd;stroke:none" />
+     style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none" />
 </svg>
