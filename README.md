@@ -87,4 +87,4 @@ If you're skilled enough and you're into the project so much that I don't even n
 ###### Contributors
 - José Morales https://plus.google.com/+Jos%C3%A9Morales87/posts made an extension pack composed by 35 icons, that has been already integrated in the iconset
 - Iohannes Quon Fabrum https://plus.google.com/109260276583018639821/posts created 24 more icons for KDE, that have been integrated in the main repository as well
-- jkoldarr https://github.com/jolkdarr is doing more than 100 development-related icons. See #107 and #108
+- jkoldarr https://github.com/jolkdarr is doing more than 100 development-related icons. See [#107](https://github.com/alecive/FlatWoken/pull/107) and [#106](https://github.com/alecive/FlatWoken/pull/106)
