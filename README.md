@@ -85,6 +85,11 @@ f you're a designer on your own you can directly create your own icon, and ask f
 If you're skilled enough and you're into the project so much that I don't even need to validate your icons before submitting them, I will be pleased to directly add you as a contributor of the main project!
 
 ###### Contributors
-- José Morales https://plus.google.com/+Jos%C3%A9Morales87/posts made an extension pack composed by 35 icons, that has been already integrated in the iconset
-- Iohannes Quon Fabrum https://plus.google.com/109260276583018639821/posts created 24 more icons for KDE, that have been integrated in the main repository as well
-- jkoldarr https://github.com/jolkdarr is doing more than 100 development-related icons. See [#107](https://github.com/alecive/FlatWoken/pull/107) and [#106](https://github.com/alecive/FlatWoken/pull/106)
+- [José Morales](https://plus.google.com/+Jos%C3%A9Morales87/posts) made an extension pack composed by 35 icons, that has been already integrated in the iconset
+- [Iohannes Quon Fabrum](https://plus.google.com/109260276583018639821/posts) created 24 more icons for KDE, that have been integrated in the main repository as well
+- [jkoldarr](https://github.com/jolkdarr) is doing more than 100 development-related icons. See [#107](https://github.com/alecive/FlatWoken/pull/107) and [#106](https://github.com/alecive/FlatWoken/pull/106)
+- [tojarafal](https://github.com/tojarafal) added 27 icons over the time
+- Minor contributions by:
+  - [f43792](https://github.com/f43792) added a beautiful group of `minecraft` icons to the set
+  - [varlesh](https://github.com/varlesh) added `deadbeef` icon
+  - [muava12](https://github.com/muava12) added `arduino` and `eagle` icons
