@@ -5,7 +5,7 @@ FlatWoken icon theme
 
 Official *FlatWoken* icon theme source repository.
 
-The *FlatWoken* project is developed by **Alessandro Roncone** (aka *alecive*), and it is released under the CC BY-SA 4.0 License. It is is meant to be a complete set of icon themes for Linux **AND** Android. If you'd like to use and/or modify these icons for your own purposes, please consider the fact that the iconset is free to use *as long as* its use is **not** conveying any monetary income; if it does, we can arrange easily for a fair compensation. Regardless of the use, I'd like to know if and how my icons are used, and I'd like to receive some sort of credit for it! Nothing crazy, though: just a quick note on the bottom or your website with my email/website is sufficient :)
+The *FlatWoken* project is developed by **Alessandro Roncone** (aka *alecive*), and it is released under the [CC BY-SA 4.0 License](http://creativecommons.org/licenses/by-sa/4.0/). It is meant to be a complete set of icon themes for Linux **AND** Android. If you'd like to use and/or modify these icons for your own purposes the iconset is free to use, including commercially, but please consider that if you do convey any monetary income from its use I kindly ask that we arrange for a fair compensation. Regardless of the use, I'd like to know if and how my icons are used, and I'd like to receive some sort of credit for it! Nothing crazy, though: just a quick note on the bottom or your website with my email/website is sufficient :)
 
 Contact informations:
 
@@ -21,7 +21,7 @@ For any icon request and/or bug, please use github.
 Design Guidelines
 ----------
 
-*FlatWoken* project is derived from the popular *AwOken* icon theme. It's freely inspired by its minimalist approach, even though it is basically a revision with an eye toward flat design. 
+*FlatWoken* project is derived from the popular *AwOken* icon theme. It's freely inspired by its minimalist approach, even though it is basically a revision with an eye toward flat design.
 
 *FlatWoken* icons are currently divided in two different icon sets:
 
@@ -85,5 +85,11 @@ f you're a designer on your own you can directly create your own icon, and ask f
 If you're skilled enough and you're into the project so much that I don't even need to validate your icons before submitting them, I will be pleased to directly add you as a contributor of the main project!
 
 ###### Contributors
-- José Morales https://plus.google.com/+Jos%C3%A9Morales87/posts made an extension pack composed by 35 icons, that has been already integrated in the iconset
-- Iohannes Quon Fabrum https://plus.google.com/109260276583018639821/posts created 24 more icons for KDE, that have been integrated in the main repository as well
+- [José Morales](https://plus.google.com/+Jos%C3%A9Morales87/posts) made an extension pack composed by 35 icons, that has been already integrated in the iconset
+- [Iohannes Quon Fabrum](https://plus.google.com/109260276583018639821/posts) created 24 more icons for KDE, that have been integrated in the main repository as well
+- [Brahim Djoudi](https://github.com/jolkdarr) is doing more than 100 development-related icons. See [#107](https://github.com/alecive/FlatWoken/pull/107) and [#106](https://github.com/alecive/FlatWoken/pull/106)
+- [tojarafal](https://github.com/tojarafal) added 27 icons over the time
+- Minor contributions by:
+  - [f43792](https://github.com/f43792) added a beautiful group of `minecraft` icons to the set
+  - [varlesh](https://github.com/varlesh) added `deadbeef` icon
+  - [muava12](https://github.com/muava12) added `arduino` and `eagle` icons

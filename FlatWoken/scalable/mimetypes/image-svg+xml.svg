@@ -647,8 +647,8 @@
        color-interpolation-filters="sRGB"
        id="filter3174">
       <feGaussianBlur
-         id="feGaussianBlur3176"
-         stdDeviation="1.71" />
+         stdDeviation="1.71"
+         id="feGaussianBlur3176" />
     </filter>
     <linearGradient
        id="linearGradient10386">
@@ -940,10 +940,10 @@
        color-interpolation-filters="sRGB"
        id="filter6718">
       <feFlood
-         result="flood"
-         flood-color="rgb(0,0,0)"
+         id="feFlood6720"
          flood-opacity="0.4"
-         id="feFlood6720" />
+         flood-color="rgb(0,0,0)"
+         result="flood" />
       <feComposite
          in2="SourceGraphic"
          operator="in"
@@ -951,14 +951,14 @@
          result="composite1"
          id="feComposite6722" />
       <feGaussianBlur
-         result="blur"
+         id="feGaussianBlur6724"
          stdDeviation="0.2"
-         id="feGaussianBlur6724" />
+         result="blur" />
       <feOffset
-         result="offset"
-         dy="4.5"
+         id="feOffset6726"
          dx="4.5"
-         id="feOffset6726" />
+         dy="4.5"
+         result="offset" />
       <feComposite
          in2="offset"
          operator="over"
@@ -1032,7 +1032,7 @@
      id="rect4121"
      style="color:#000000;fill:#e4e6d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
-     d="m 273.96875,166.46875 c -60.20469,0.40763 -116.95607,43.28537 -133.65625,101.1875 -16.32483,51.59825 0.38952,111.16314 40.5,147.34375 25.56082,25.69398 51.34998,51.14531 76.96875,76.78125 L 404.0625,491.5625 c 48.67892,-5.08446 86.60372,-45.40115 87.90625,-95.15625 8.9e-4,-0.0342 -8.7e-4,-0.0596 0,-0.0937 8.5e-4,-0.41093 -8.2e-4,-0.64635 0,-1.0625 0.0364,-18.42975 0.0322,-43.30267 0.0312,-73.5625 -41.08039,-42.37195 -82.66712,-84.29277 -126.21875,-124.09375 -25.00719,-20.07257 -56.88366,-31.18769 -88.9375,-31.125 -0.95722,-0.015 -1.91937,-0.006 -2.875,0 z"
+     d="m 273.96875,166.46875 c -60.20469,0.40763 -116.95607,43.28537 -133.65625,101.1875 -16.32483,51.59825 0.38952,111.16314 40.5,147.34375 25.56082,25.69398 51.34998,51.14531 76.96875,76.78125 L 404.0625,491.5625 c 48.67892,-5.08446 86.60372,-45.40115 87.90625,-95.15625 8.9e-4,-0.0342 -8.7e-4,-0.0596 0,-0.0937 8.5e-4,-0.41093 -8.2e-4,-0.64635 0,-1.0625 0.0364,-18.42975 0.0322,-43.30267 0.0312,-73.5625 C 450.91956,279.3156 409.33283,237.39478 365.7812,197.5938 c -25.00719,-20.07257 -56.88366,-31.18769 -88.9375,-31.125 -0.95722,-0.015 -1.91937,-0.006 -2.875,0 z"
      id="path5539"
      style="fill:#000000;fill-opacity:0.15686275;stroke:#818181;stroke-opacity:0.61956518" />
   <g
@@ -1065,53 +1065,48 @@
      id="path24"
      style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <g
-     transform="translate(950.76982,71.24649)"
-     id="g5326"
-     style="filter:url(#filter6718)">
+     transform="translate(100.09127,132.4047)"
+     id="g4725"
+     style="stroke:#000000;stroke-width:38.00859833">
     <g
-       transform="translate(-850.67855,61.158206)"
-       id="g4725"
-       style="stroke:#000000;stroke-width:38.00859833">
-      <g
-         transform="translate(150,150)"
-         id="svgstar">
-        <path
-           d="m -84.1487,-15.8513 a 22.4171,22.4171 0 1 0 0,31.7026 H 84.1487 a 22.4171,22.4171 0 1 0 0,-31.7026 z"
-           id="svgbar"
-           style="fill:#ffb13b" />
-        <use
-           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
-           id="use4729"
-           x="0"
-           y="0"
-           width="744.09448"
-           height="1052.3622"
-           xlink:href="#svgbar" />
-        <use
-           transform="matrix(0,1,-1,0,0,0)"
-           id="use4731"
-           x="0"
-           y="0"
-           width="744.09448"
-           height="1052.3622"
-           xlink:href="#svgbar" />
-        <use
-           transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)"
-           id="use4733"
-           x="0"
-           y="0"
-           width="744.09448"
-           height="1052.3622"
-           xlink:href="#svgbar" />
-      </g>
+       transform="translate(150,150)"
+       id="svgstar">
+      <path
+         d="m -84.1487,-15.8513 a 22.4171,22.4171 0 1 0 0,31.7026 H 84.1487 a 22.4171,22.4171 0 1 0 0,-31.7026 z"
+         id="svgbar"
+         style="fill:#ffb13b" />
+      <use
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         id="use4729"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#svgbar" />
+      <use
+         transform="matrix(0,1,-1,0,0,0)"
+         id="use4731"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#svgbar" />
+      <use
+         transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)"
+         id="use4733"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#svgbar" />
     </g>
-    <use
-       transform="translate(-850.67855,61.158206)"
-       id="use4735"
-       x="0"
-       y="0"
-       width="744.09448"
-       height="1052.3622"
-       xlink:href="#svgstar" />
   </g>
+  <use
+     transform="translate(100.09127,132.4047)"
+     id="use4735"
+     x="0"
+     y="0"
+     width="744.09448"
+     height="1052.3622"
+     xlink:href="#svgstar" />
 </svg>

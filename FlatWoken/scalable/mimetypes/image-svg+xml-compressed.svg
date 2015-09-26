@@ -263,8 +263,8 @@
        color-interpolation-filters="sRGB"
        id="filter3174">
       <feGaussianBlur
-         id="feGaussianBlur3176"
-         stdDeviation="1.71" />
+         stdDeviation="1.71"
+         id="feGaussianBlur3176" />
     </filter>
     <linearGradient
        x1="32.251034"
@@ -500,8 +500,8 @@
        color-interpolation-filters="sRGB"
        id="filter4002">
       <feGaussianBlur
-         id="feGaussianBlur4004"
-         stdDeviation="9.6" />
+         stdDeviation="9.6"
+         id="feGaussianBlur4004" />
     </filter>
     <linearGradient
        x1="42"
@@ -1330,8 +1330,8 @@
        color-interpolation-filters="sRGB"
        id="filter4002-9">
       <feGaussianBlur
-         id="feGaussianBlur4004-1"
-         stdDeviation="9.6" />
+         stdDeviation="9.6"
+         id="feGaussianBlur4004-1" />
     </filter>
     <linearGradient
        x1="6"
@@ -4310,10 +4310,10 @@
        color-interpolation-filters="sRGB"
        id="filter6718">
       <feFlood
-         result="flood"
-         flood-color="rgb(0,0,0)"
+         id="feFlood6720"
          flood-opacity="0.4"
-         id="feFlood6720" />
+         flood-color="rgb(0,0,0)"
+         result="flood" />
       <feComposite
          in2="SourceGraphic"
          operator="in"
@@ -4321,14 +4321,14 @@
          result="composite1"
          id="feComposite6722" />
       <feGaussianBlur
-         result="blur"
+         id="feGaussianBlur6724"
          stdDeviation="0.2"
-         id="feGaussianBlur6724" />
+         result="blur" />
       <feOffset
-         result="offset"
-         dy="4.5"
+         id="feOffset6726"
          dx="4.5"
-         id="feOffset6726" />
+         dy="4.5"
+         result="offset" />
       <feComposite
          in2="offset"
          operator="over"
@@ -4489,53 +4489,48 @@
      id="path5539"
      style="fill:#000000;fill-opacity:0.15686275;stroke:#818181;stroke-width:0.78214353;stroke-opacity:0.61956518" />
   <g
-     transform="matrix(0.78214356,0,0,0.78214356,695.48641,196.17072)"
-     id="g5326"
-     style="filter:url(#filter6718)">
+     transform="matrix(0.78214356,0,0,0.78214356,30.13366,244.00522)"
+     id="g4725"
+     style="stroke:#000000;stroke-width:38.00859833">
     <g
-       transform="translate(-850.67855,61.158206)"
-       id="g4725"
-       style="stroke:#000000;stroke-width:38.00859833">
-      <g
-         transform="translate(150,150)"
-         id="svgstar">
-        <path
-           d="m -84.1487,-15.8513 a 22.4171,22.4171 0 1 0 0,31.7026 H 84.1487 a 22.4171,22.4171 0 1 0 0,-31.7026 z"
-           id="svgbar"
-           style="fill:#ffb13b" />
-        <use
-           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
-           id="use4729"
-           x="0"
-           y="0"
-           width="744.09448"
-           height="1052.3622"
-           xlink:href="#svgbar" />
-        <use
-           transform="matrix(0,1,-1,0,0,0)"
-           id="use4731"
-           x="0"
-           y="0"
-           width="744.09448"
-           height="1052.3622"
-           xlink:href="#svgbar" />
-        <use
-           transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)"
-           id="use4733"
-           x="0"
-           y="0"
-           width="744.09448"
-           height="1052.3622"
-           xlink:href="#svgbar" />
-      </g>
+       transform="translate(150,150)"
+       id="svgstar">
+      <path
+         d="m -84.1487,-15.8513 a 22.4171,22.4171 0 1 0 0,31.7026 H 84.1487 a 22.4171,22.4171 0 1 0 0,-31.7026 z"
+         id="svgbar"
+         style="fill:#ffb13b" />
+      <use
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         id="use4729"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#svgbar" />
+      <use
+         transform="matrix(0,1,-1,0,0,0)"
+         id="use4731"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#svgbar" />
+      <use
+         transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)"
+         id="use4733"
+         x="0"
+         y="0"
+         width="744.09448"
+         height="1052.3622"
+         xlink:href="#svgbar" />
     </g>
-    <use
-       transform="translate(-850.67855,61.158206)"
-       id="use4735"
-       x="0"
-       y="0"
-       width="744.09448"
-       height="1052.3622"
-       xlink:href="#svgstar" />
   </g>
+  <use
+     transform="matrix(0.78214356,0,0,0.78214356,30.13366,244.00522)"
+     id="use4735"
+     x="0"
+     y="0"
+     width="744.09448"
+     height="1052.3622"
+     xlink:href="#svgstar" />
 </svg>

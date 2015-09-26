@@ -647,8 +647,8 @@
        color-interpolation-filters="sRGB"
        id="filter3174">
       <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176" />
+         id="feGaussianBlur3176"
+         stdDeviation="1.71" />
     </filter>
     <linearGradient
        id="linearGradient10386">
@@ -1240,7 +1240,7 @@
   <path
      d="m 355.25321,20.00002 0,102.555 c 0,18.88151 15.30349,34.185 34.185,34.185 l 102.555,0 -136.74,-136.74"
      id="path24"
-     style="color:#000000;fill:#a40000;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
      d="m 136.75,210.03125 c -16.02,0 -28.90625,14.30754 -28.90625,32.09375 l 0,161.9375 c 0,10.48274 4.50647,19.70526 11.46875,25.5625 0.042,0.0354 0.0516,0.12109 0.0937,0.15625 0.10089,0.0838 0.21058,0.13646 0.3125,0.21875 22.83094,23.30428 40.90644,41.7576 60.65625,61.90625 l 77.25,-0.125 146.4375,-0.21875 c 48.67892,-5.08446 86.60372,-45.40115 87.90625,-95.15625 8.9e-4,-0.0342 -8.7e-4,-0.0596 0,-0.0937 8.5e-4,-0.41093 -8.2e-4,-0.64635 0,-1.0625 0.0408,-20.71332 0.0317,-48.28601 0.0312,-84.1875 -26.90619,-27.43759 -54.58688,-55.67943 -85.1875,-86.9375 -1.22672,-1.47022 -2.51158,-2.80742 -3.96875,-4 -5.28021,-6.21749 -12.75688,-10.09375 -21.09375,-10.09375 l -245,0 z"
      id="path3949"
