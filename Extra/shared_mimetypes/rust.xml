@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+   <mime-type type="text/rust">
+     <sub-class-of type="text/plain"/>
+     <comment>Rust source file</comment>
+     <glob pattern="*.rs"/>
+   </mime-type>
+</mime-info>
