@@ -647,8 +647,8 @@
        color-interpolation-filters="sRGB"
        id="filter3174">
       <feGaussianBlur
-         stdDeviation="1.71"
-         id="feGaussianBlur3176" />
+         id="feGaussianBlur3176"
+         stdDeviation="1.71" />
     </filter>
     <linearGradient
        id="linearGradient10386">
@@ -946,13 +946,12 @@
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <dc:title></dc:title>
-        <dc:description>Colours from UML logo (http://www.omg.org/legal/tm_list.htm).</dc:description>
         <dc:contributor>
           <cc:Agent>
             <dc:title>Brahim Djoudi</dc:title>
           </cc:Agent>
         </dc:contributor>
-        <dc:date>20151007</dc:date>
+        <dc:date>20151012</dc:date>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1036,7 +1035,7 @@
   <path
      d="m 355.25321,20.00002 0,102.555 c 0,18.88151 15.30349,34.185 34.185,34.185 l 102.555,0 -136.74,-136.74"
      id="path24"
-     style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#000000;fill:#fafafa;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
      d="M 128.25,180.09375 151.5,441.125 c 19.10488,18.89096 35.77824,35.41796 51.25,50.75 l 54.875,-0.0937 146.4375,-0.21875 c 48.67892,-5.08446 86.60372,-45.40115 87.90625,-95.15625 8.9e-4,-0.0342 -8.7e-4,-0.0596 0,-0.0937 8.5e-4,-0.41093 -8.2e-4,-0.64635 0,-1.0625 C 492.01085,373.90534 492,345.66968 492,308.125 l 0,-20 C 464.0423,260.4839 432.94318,229.8791 384.03125,181.59375 l 0.125,-1.5 -255.90625,0 z"
      id="path32233"
@@ -1044,31 +1043,49 @@
   <path
      d="M 151.50874,441.13332 128.24298,180.1023 h 255.92263 l -23.26576,261.03102 -104.979,29.50798"
      id="path31"
-     style="color:#000000;fill:#981039;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#000000;fill:#589b47;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
      d="m 256.48775,449.8917 84.55089,-23.26654 19.86121,-223.57858 H 256.48775 V 449.8917 z"
      id="path33"
-     style="color:#000000;fill:#feb903;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+     style="color:#000000;fill:#9bdf7e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   <path
      d="M 357.27496,246.86513"
      id="path35"
      style="fill:#ffffff" />
-  <g
-     transform="scale(0.98837816,1.0117585)"
-     id="text3981"
-     style="font-size:165.82289124px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#280068;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:MikodacsPCS;-inkscape-font-specification:MikodacsPCS Heavy">
-    <path
-       d="m 234.33949,366.31105 12.93419,-19.40128 -36.97851,-24.54179 36.81268,-23.54685 -12.43671,-19.5671 -61.18865,39.1342 0,7.46203 60.857,40.46079"
-       id="path4015"
-       style="color:#000000;fill:#280068;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  </g>
-  <g
-     transform="scale(-0.98837816,1.0117585)"
-     id="text3997"
-     style="font-size:165.82289124px;font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;color:#000000;fill:#280068;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:MikodacsPCS;-inkscape-font-specification:MikodacsPCS Heavy">
-    <path
-       d="m -284.09425,366.31105 12.93418,-19.40128 -36.9785,-24.54179 36.81268,-23.54685 -12.43672,-19.5671 -61.18865,39.1342 0,7.46203 60.85701,40.46079"
-       id="path4012"
-       style="color:#000000;fill:#280068;fill-opacity:1;fill-rule:nonzero;stroke:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  </g>
+  <path
+     d="m 307.77122,281.50717 c 26.56473,25.73673 5.22378,74.66511 0.57527,75.93607"
+     id="path3973"
+     style="color:#000000;fill:none;stroke:#386227;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 308.53826,357.25147 C 251.96971,358.97729 205.94784,337.88394 205.94784,337.88394"
+     id="path3975"
+     style="color:#000000;fill:none;stroke:#386227;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="m 307.96299,281.50716 c -24.545,43.72077 -101.24811,56.56855 -101.24811,56.56855"
+     id="path3983"
+     style="color:#000000;fill:none;stroke:#386227;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="M 307.96299,281.50716 C 291.64773,270.28045 247.63942,248.93879 206.33136,256.57865"
+     id="path3985"
+     style="fill:none;stroke:#386227;stroke-width:4;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  <path
+     d="m -213.23464,115.44493 a 25.312025,25.312025 0 1 1 -50.62405,0 25.312025,25.312025 0 1 1 50.62405,0 z"
+     transform="translate(444.75096,140.36668)"
+     id="path3175"
+     style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="m -213.23464,115.44493 a 25.312025,25.312025 0 1 1 -50.62405,0 25.312025,25.312025 0 1 1 50.62405,0 z"
+     transform="translate(444.75096,220.36668)"
+     id="path3955"
+     style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="m -213.23464,115.44493 a 25.312025,25.312025 0 1 1 -50.62405,0 25.312025,25.312025 0 1 1 50.62405,0 z"
+     transform="translate(544.75096,240.36668)"
+     id="path3959"
+     style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+  <path
+     d="m -213.23464,115.44493 a 25.312025,25.312025 0 1 1 -50.62405,0 25.312025,25.312025 0 1 1 50.62405,0 z"
+     transform="translate(544.75096,165.36668)"
+     id="path3961"
+     style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
 </svg>
