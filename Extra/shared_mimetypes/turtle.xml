@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
-   <mime-type type="text/kotlin">
+   <mime-type type="text/turtle">
      <sub-class-of type="text/plain"/>
-     <comment>Kotlin source file</comment>
-     <glob pattern="*.kt"/>
-     <glob pattern="*.kts"/>
+     <comment>Turtle (Terse RDF Triple Language) file</comment>
+     <glob pattern="*.ttl"/>
    </mime-type>
 </mime-info>
