@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+   <mime-type type="text/x-clojure">
+     <sub-class-of type="text/plain"/>
+     <comment>Clojure source file</comment>
+     <glob pattern="*.clj"/>
+     <glob pattern="*.cljr"/>
+     <glob pattern="*.cljs"/>
+   </mime-type>
+</mime-info>
