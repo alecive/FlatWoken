@@ -4,6 +4,12 @@
      <sub-class-of type="text/plain"/>
      <comment>Kotlin source file</comment>
      <glob pattern="*.kt"/>
+   </mime-type>
+
+   <mime-type type="text/kotlin-script">
+     <sub-class-of type="text/kotlin"/>
+     <sub-class-of type='application/x-executable'/>
+     <comment>Kotlin script file</comment>
      <glob pattern="*.kts"/>
    </mime-type>
 </mime-info>

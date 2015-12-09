@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
-   <mime-type type="application/vnd.coffeescript">
-     <sub-class-of type="text/plain"/>
-     <comment>Coffeescript source file</comment>
-     <glob pattern="*.coffee"/>
-   </mime-type>
+    <mime-type type="application/vnd.coffeescript">
+        <sub-class-of type="text/plain"/>
+        <comment>CoffeeScript source file</comment>
+        <glob pattern="*.coffee"/>
+    </mime-type>
+
+    <mime-type type="application/vnd.literate-coffeescript">
+        <sub-class-of type="application/vnd.coffeescript"/>
+        <sub-class-of type="application/x-executable"/>
+        <comment>Literate CoffeeScript file</comment>
+        <glob pattern="*.litcoffee"/>
+    </mime-type>
 </mime-info>
