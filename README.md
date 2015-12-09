@@ -21,7 +21,7 @@ For any icon request and/or bug, please use github.
 Design Guidelines
 ----------
 
-*FlatWoken* project is derived from the popular *AwOken* icon theme. It's freely inspired by its minimalist approach, even though it is basically a revision with an eye toward flat design.
+*FlatWoken* project is derived from the popular *AwOken* icon theme. It's freely inspired by its minimalist approach, even though it is basically a revision with an eye toward flat design. 
 
 *FlatWoken* icons are currently divided in two different icon sets:
 
@@ -87,7 +87,7 @@ If you're skilled enough and you're into the project so much that I don't even n
 ###### Contributors
 - [José Morales](https://plus.google.com/+Jos%C3%A9Morales87/posts) made an extension pack composed by 35 icons, that has been already integrated in the iconset
 - [Iohannes Quon Fabrum](https://plus.google.com/109260276583018639821/posts) created 24 more icons for KDE, that have been integrated in the main repository as well
-- [Brahim Djoudi](https://github.com/jolkdarr) is doing more than 100 development-related icons. See [#107](https://github.com/alecive/FlatWoken/pull/107) and [#106](https://github.com/alecive/FlatWoken/pull/106)
+- [jkoldarr](https://github.com/jolkdarr) is doing more than 100 development-related icons. See [#107](https://github.com/alecive/FlatWoken/pull/107) and [#106](https://github.com/alecive/FlatWoken/pull/106)
 - [tojarafal](https://github.com/tojarafal) added 27 icons over the time
 - Minor contributions by:
   - [f43792](https://github.com/f43792) added a beautiful group of `minecraft` icons to the set
