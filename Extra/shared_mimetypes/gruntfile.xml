@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="text/vnd.gruntfile+js">
+    <comment>Gruntfile (JavaScript syntax)</comment>
+    <sub-class-of type="application/javascript"/>
+    <glob pattern="Gruntfile.js"/>
+  </mime-type>
+
+  <mime-type type="text/vnd.gruntfile+coffee">
+    <comment>Gruntfile (CoffeeScript syntax)</comment>
+    <sub-class-of type="application/vnd.coffeescript"/>
+    <glob pattern="Gruntfile.coffee"/>
+  </mime-type>
+</mime-info>
