@@ -1,5 +1,5 @@
 #!/bin/sh
 
-cp -i *.xml /usr/share/mime/packages
+cp -i *.xml /usr/local/share/mime/packages
 
-update-mime-database /usr/share/mime
+update-mime-database /usr/local/share/mime
