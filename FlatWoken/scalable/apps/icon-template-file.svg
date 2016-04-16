@@ -35,7 +35,7 @@
      inkscape:current-layer="svg2"
      inkscape:document-units="px"
      inkscape:cy="232.51603"
-     inkscape:cx="553.05585"
+     inkscape:cx="277.60045"
      inkscape:zoom="0.6026384"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -222,7 +222,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -309,33 +309,6 @@
        id="g4038"
        transform="translate(-926.66758,684.38448)" />
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-     x="584.21265"
-     y="38.652325"
-     id="text3038"
-     sodipodi:linespacing="125%"><tspan
-       sodipodi:role="line"
-       id="tspan3040"
-       x="584.21265"
-       y="38.652325"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'">Color guidelines for the Long Shadows (R-G-B-A):</tspan><tspan
-       sodipodi:role="line"
-       x="584.21265"
-       y="68.652328"
-       id="tspan3042"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'">- 0-0-0-30 for an icon with a white/very clear background</tspan><tspan
-       sodipodi:role="line"
-       x="584.21265"
-       y="98.652328"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
-       id="tspan3044">- 0-0-0-40 for an icon with a colored background</tspan><tspan
-       sodipodi:role="line"
-       x="584.21265"
-       y="128.65233"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
-       id="tspan3046">- 0-0-0-60 for an icon with a black/very dark background</tspan></text>
   <path
      style="fill:#000000;fill-opacity:0.11764706;fill-rule:nonzero;stroke:none"
      d="m 355.25,20 0,102.5625 c 0,9.77909 4.10646,18.58192 10.6875,24.8125 L 492,273.46875 492,156.75 423.625,88.375 Z"
@@ -353,4 +326,118 @@
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#e4e6d2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;marker:none;enable-background:accumulate"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="cccccsccc" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     x="550.69983"
+     y="-0.575432"
+     id="text3038"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan3040"
+       x="550.69983"
+       y="-0.575432"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'">Guidelines for the Long Shadows (R-G-B-A):</tspan><tspan
+       sodipodi:role="line"
+       x="550.69983"
+       y="29.424568"
+       id="tspan3042"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'">- 0-0-0-40 for an icon with a white/very clear background</tspan><tspan
+       sodipodi:role="line"
+       x="550.69983"
+       y="59.424568"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       id="tspan3044">- 0-0-0-60 for an icon with a colored background</tspan><tspan
+       sodipodi:role="line"
+       x="550.69983"
+       y="89.424568"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       id="tspan3046">- 0-0-0-80 for an icon with a black/very dark background</tspan><tspan
+       sodipodi:role="line"
+       x="550.69983"
+       y="119.42457"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       id="tspan6182">For actually generating the long shadow, I recommend you</tspan><tspan
+       sodipodi:role="line"
+       x="550.69983"
+       y="149.42456"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       id="tspan6184">to use Extensions -&gt; Generate from Path -&gt; Motion . My settings </tspan><tspan
+       sodipodi:role="line"
+       x="550.69983"
+       y="179.42456"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       id="tspan6186">are Magnitude=450 and Angle=45.</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text3024"
+     y="212.99727"
+     x="551.37952"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       y="212.99727"
+       x="551.37952"
+       id="tspan3026"
+       sodipodi:role="line">Recommendations:</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       id="tspan3028"
+       y="242.99727"
+       x="551.37952"
+       sodipodi:role="line">1. Don't put a big icon inside the squared frame.</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       y="272.99725"
+       x="551.37952"
+       sodipodi:role="line"
+       id="tspan3034">    Its dimension should never be bigger than 350px (300x300 is recommended)</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       y="302.99725"
+       x="551.37952"
+       sodipodi:role="line"
+       id="tspan3038">2. BE FLAT, and BE MINIMAL! Never forget this: think always about how to</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       y="332.99725"
+       x="551.37952"
+       sodipodi:role="line"
+       id="tspan3043">    reduce clutter, reduce elements, simplify colors etc</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       y="362.99725"
+       x="551.37952"
+       sodipodi:role="line"
+       id="tspan3045">3. If the icon has an hole (e.g. the hole in a donut), that hole should be without</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       y="392.99725"
+       x="551.37952"
+       sodipodi:role="line"
+       id="tspan3047">    the shadow, in order to make the icon better highlighted wrt the background</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       y="422.99725"
+       x="551.37952"
+       sodipodi:role="line"
+       id="tspan3033">4. As a recommended suggestion, keep the number of colors limited. An icon should never</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       y="452.99725"
+       x="551.37952"
+       sodipodi:role="line"
+       id="tspan3035">    have too many colors. Usually, two or three colors are recommended.</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       y="482.99725"
+       x="551.37952"
+       sodipodi:role="line"
+       id="tspan3037">5. Try to stick with the original color palette, in order to ease for the user the process</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       y="512.99725"
+       x="551.37952"
+       sodipodi:role="line"
+       id="tspan3039">    of associating the custom icon with the original app</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       y="542.99725"
+       x="551.37952"
+       sodipodi:role="line"
+       id="tspan3041">6. Prefer soft colors instead of highly saturated ones.</tspan><tspan
+       id="tspan3032"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;font-family:'Gentium Book Basic';-inkscape-font-specification:'Gentium Book Basic'"
+       y="572.99725"
+       x="551.37952"
+       sodipodi:role="line" /></text>
 </svg>
