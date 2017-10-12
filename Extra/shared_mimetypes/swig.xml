@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="text/vnd.swig">
+    <comment>SWIG interface file.</comment>
+    <sub-class-of type="text/plain"/>
+    <glob pattern="*.i"/>
+    <glob pattern="*.swg"/>
+  </mime-type>
+</mime-info>

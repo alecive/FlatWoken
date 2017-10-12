@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+   <mime-type type="application/vnd.ericsson.beam">
+     <sub-class-of type="application/octet-stream"/>
+     <comment>Ericsson Beam object file</comment>
+     <glob pattern="*.beam"/>
+   </mime-type>
+</mime-info>

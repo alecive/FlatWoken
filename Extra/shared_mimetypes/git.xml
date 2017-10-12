@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-info xmlns='http://www.freedesktop.org/standards/shared-mime-info'>
+  <mime-type type="text/vnd.git-scm">
+    <comment>GIT file.</comment>
+    <sub-class-of type="text/plain"/>
+    <glob pattern=".gitignore"/>
+    <glob pattern=".gitattributes"/>
+    <glob pattern=".gitconfig"/>
+  </mime-type>
+</mime-info>
